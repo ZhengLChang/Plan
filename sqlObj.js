@@ -5,20 +5,22 @@ var db = new sqlite3.Database('./plan.db', sqlite3.OPEN_READWRITE, function(err)
 		console.log(err.message);
 	}
 });
-	exports.queryEach = function(queryStr, callback){
+	module.exports = {
+    queryEach: function(queryStr, callback){
 					db.each(queryStr, [], callback);
-			};
-	exports.queryAll = function(queryStr, callback){
+			},
+	  queryAll: function(queryStr, callback){
 					db.all(queryStr, [], callback);
-			};
-	exports.close = function(){
+			},
+	  close: function(){
 	 				db.close(function(err){
 						if(err){
 							console.log(err.message);
 						}
 					console.log('Close the database connection');
 					});
-			};
+			},
+  };
 
 /*
 	exports = {
