@@ -141,8 +141,8 @@ function sendMailByNewShare(){
 //  console.log(nowDate);
 //  console.log(nowDay);
   if(!((nowDate.getHours() ==10  && nowDate.getMinutes() <= 15) ||  
-      (nowDate.getHours() == 11 && nowDate.getMinutes() <= 15) || 
-      (nowDate.getHours() == 13 && nowDate.getMinutes() <= 15)))
+      (nowDate.getHours() == 11 && nowDate.getMinutes() <= 15)/* || 
+      (nowDate.getHours() == 13 && nowDate.getMinutes() <= 15)*/))
   {
 //    console.log("Now Hour: " + nowDate.getHours);
     return false;
@@ -261,7 +261,7 @@ var req = http.request(options, function(res){
 }
 
 //getNewShareNearToday(3, printNewShare)
-setInterval(sendMailByNewShare, (1 * 60 + 32)* 1000);
+setInterval(sendMailByNewShare, (15 * 60 + 32)* 1000);
 setInterval(sendMailByPlan, (3 * 60) * 1000);
 //mysqlConn.end();
 
