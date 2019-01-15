@@ -1,4 +1,4 @@
-exports.sprintf = function(str){
+var sprintf = function(str){
 	var args = arguments;
 	var i = 1;
 	/*
@@ -20,3 +20,5 @@ exports.sprintf = function(str){
 	*/
 	return str;
 };
+
+module.exports = sprintf;
