@@ -9,8 +9,17 @@ var mailOptions = {
   html: 'Hello, World',
   index: 0
 };
+var mailTrans = nodemailer.createTransport({
+service: '163',
+auth: {
+  user: '13007568302@163.com',
+  pass: '13073shanguangy'
+}
+    });
 
 
+
+/*
 var mysql = require('mysql');
 var mysqlConn = mysql.createConnection({
 host: '127.0.0.1',
@@ -19,15 +28,7 @@ password: 'zheng',
 database: 'day_job',
 timezone: 'Asia/Shanghai'
     });
-mysqlConn.connect();
-
-var mailTrans = nodemailer.createTransport({
-service: '163',
-auth: {
-  user: '13007568302@163.com',
-  pass: '13073shanguangy'
-}
-    });
+//mysqlConn.connect();
 
 function sendMailByPlan(){
   mysqlConn.query("select * from plan where trigger_date <= NOW() and isSent = 0", function(err, result){
@@ -53,7 +54,7 @@ function sendMailByPlan(){
     }
   });
 }
-
+*/
 function printNewShare(newShare)
 {
   var myOptions = mailOptions;
@@ -253,5 +254,5 @@ getNewShareNearToday(35, printNewShare)
 setInterval(sendMailByNewShare, 11 * 60 * 1000);
 setInterval(sendMailByPlan, 30000);
 */
-mysqlConn.end();
+//mysqlConn.end();
 
