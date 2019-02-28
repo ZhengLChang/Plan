@@ -77,7 +77,7 @@ function(resData){
   var msg_arr = share_message.data.items;
   for(i = 0; i < mes_arr_len; i++){
     if(msg_arr[i].market_type == "mdc" &&
-        msg_arr[i].asset_type == "stock"){
+        (msg_arr[i].asset_type == "stock" || msg_arr[i].asset_type == "index")){
         //console.log(msg_arr[i]);
         sendRequestToHost({hostname: hostName,
                             port: 443,
@@ -98,7 +98,7 @@ function(resData){
                         msg_arr = share_message.data.snapshot;
                         for(var index in msg_arr){
                          // console.log(msg_arr[index][1] + msg_arr[index][4].toFixed(2) + " " + msg_arr[index][6]);
-                         console.log(msg_arr[index][4].toFixed(2) + " " + msg_arr[index][6]);
+                         console.log(msg_arr[index][4].toFixed(2) + " " + msg_arr[index][6].toFixed(2));
                         }
                       }
                   });
