@@ -109,10 +109,10 @@ var req = http.request(options, function(res){
             break;
         }
         */
-        if(nowSec <= newShareSec  + (22 * 60 * 60)&& nowSec + (nearDay * 24 * 60 * 60) >= newShareSec)
+        if(nowSec <= newShareSec && nowSec + (nearDay * 24 * 60 * 60) >= newShareSec)
         {
           console.log(xgData[i].purchasedate);
-					if(xgData[i].issueprice != "-"){
+					if(xgData[i].issueprice == "-"){
           newShareList = "名称: " + xgData[i].securityshortname + " Time: " + newShareDate.getFullYear() + "-" + (newShareDate.getMonth() + 1) + "-" + newShareDate.getDate() + " " + "发行价: " + xgData[i].issueprice + "</br>" + newShareList;
 					}else{
           newShareList = "名称: " + xgData[i].securityshortname + " Time: " + newShareDate.getFullYear() + "-" + (newShareDate.getMonth() + 1) + "-" + newShareDate.getDate() + " " + "预估发行价: " + xgData[i].jg1 + "</br>" + newShareList;
@@ -253,7 +253,18 @@ var req = http.request(options, function(res){
     req.end();
 }
 
-getNewShareNearToday(55, printNewShare)
+setInterval(function(){
+  var nowDate = new Date(Date.now());
+  var nowYear = nowDate.getFullYear();
+  var nowMonth = nowDate.getMonth();
+  var nowDay = nowDate.getDate();
+  if(!(nowDate.getHours() == 7  && nowDate.getMinutes() <= 15))
+  {
+    return false;
+  }
+	getNewShareNearToday(55, printNewShare);
+	}, 11 * 60 * 1000);
+
 /*
 setInterval(sendMailByNewShare, 11 * 60 * 1000);
 setInterval(sendMailByPlan, 30000);
