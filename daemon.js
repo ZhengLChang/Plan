@@ -7,4 +7,7 @@ var p = spawn('node', ['nodemailer.js'], {
 var p = spawn('node', ['index.js'], {
 	detached: true
 });
+var p = spawn('node', ['getNeighborShareDaily.js'], {
+	detached: true
+});
 process.exit(0);
