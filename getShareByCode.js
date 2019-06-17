@@ -1,6 +1,7 @@
 var http = require('http');
 var https = require('https');
-var hostName = 'api-ddc.wallstreetcn.com';
+//var hostName = 'api-ddc.wallstreetcn.com';
+var hostName = 'api-ddc-wscn.xuangubao.cn';
 
 function sendRequestToHost(option){
   var hostname = option.hostname,
@@ -65,27 +66,28 @@ function sendRequestToHost(option){
 
 var args = process.argv.splice(2);
 for(var i = 0; i < args.length; i++){
-sendRequestToHost({hostname: hostName,
-                            port: 443,
-                            path: '/search/assets?q='+args[i],
+sendRequestToHost({hostname: 'api-wows-wscn.xuangubao.cn',
+                            port: 80,
+                            path: '/v3/search/stocks?q='+args[i],
                             method: 'GET',
-                            isUseHttps: 1,
+                    //        isUseHttps: 1,
                             callback: 
 function(resData){
   var share_message = JSON.parse(resData);
-  var i = 0, mes_arr_len = share_message.data.items.length;
-  var msg_arr = share_message.data.items;
+  var i = 0, mes_arr_len = share_message.data.stocks.length;
+  var msg_arr = share_message.data.stocks;
   for(i = 0; i < mes_arr_len; i++){
-    if(msg_arr[i].market_type == "mdc" &&
+    if(1 || msg_arr[i].market_type == "mdc" &&
         (msg_arr[i].asset_type == "stock" || msg_arr[i].asset_type == "index")){
         //console.log(msg_arr[i]);
         sendRequestToHost({hostname: hostName,
-                            port: 443,
-                            path: '/market/real?fields=symbol,prod_name,prod_en_name,price_precision,px_change_rate,px_change,last_px&prod_code=' + msg_arr[i].wscn_code,
+                            port: 80,
+                            path: '/market/real?fields=symbol,prod_name,prod_en_name,price_precision,px_change_rate,px_change,last_px&prod_code=' + msg_arr[i].code,
                             method: 'GET',
-                            isUseHttps: 1,
+                     //       isUseHttps: 1,
                             callback: 
                 function(resData){
+//	console.log(resData);
                         var share_message = JSON.parse(resData);
                         var msg_arr = null;
                         var fields = null;
@@ -97,8 +99,8 @@ function(resData){
                         fiels = share_message.data.fields;
                         msg_arr = share_message.data.snapshot;
                         for(var index in msg_arr){
-                         // console.log(msg_arr[index][1] + msg_arr[index][4].toFixed(2) + " " + msg_arr[index][6]);
-                         console.log(msg_arr[index][4].toFixed(2) + " " + msg_arr[index][6].toFixed(2));
+                          console.log(msg_arr[index][1] + msg_arr[index][4].toFixed(2) + " " + msg_arr[index][6]);
+                         //console.log(msg_arr[index][4].toFixed(2) + " " + msg_arr[index][6].toFixed(2));
                         }
                       }
                   });
