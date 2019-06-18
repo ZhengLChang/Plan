@@ -2,6 +2,39 @@ var http = require('http');
 var https = require('https');
 //var hostName = 'api-ddc.wallstreetcn.com';
 var hostName = 'api-ddc-wscn.xuangubao.cn';
+if(!global.Map){
+  global.Map = function (){
+    var length = 0;
+    var obj = new Object();
+    this.containsKey = function(key){
+      return (key in obj);
+    }
+    this.set = function(key, value){
+      if(!this.containsKey(key)){
+        length++;
+      }
+      obj[key] = value;
+    }
+    this.get = function(key){
+      return this.containsKey(key) ? obj[key] : null;
+    }
+    this.containsValue = function(value){
+      for(var key in obj){
+        if(obj[key] == value){
+          return true;
+        }
+      }
+      return false;
+    }
+    this.size = function(){
+      return length;
+    }
+    this.clear = function(){
+      length = 0;
+      obj = new Object();
+    }
+  }
+}
 var shareNameToCode = new Map();
 shareNameToCode.set('szzs', '000001.SS');
 shareNameToCode.set('sh', '000001.SS');
