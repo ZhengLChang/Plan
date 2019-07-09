@@ -1,0 +1,46 @@
+{
+	"apps": [
+		{
+			"name": "nodemailer.js",
+			"cwd": "./",
+			"script": "nodemailer.js",
+			"log_date_format": "YYYY-MM-DD HH:mm Z",
+			"error_file": "log/nodemailer.stderr.log",
+			"out_file": "log/nodemailer.stdout.log",
+			"pid_file": "pids/nodemailer.pid",
+			"watch": false,
+			"merge_logs": false,
+			"exec_interpreter": "node",
+			"autorestart": true,
+			"vizion": false
+		},
+		{
+			"name": "web",
+			"cwd": "./",
+			"script": "index.js",
+			"log_date_format": "YYYY-MM-DD HH:mm Z",
+			"error_file": "log/index.stderr.log",
+			"out_file": "log/index.stdout.log",
+			"pid_file": "pids/index.pid",
+			"watch": false,
+			"merge_logs": false,
+			"exec_interpreter": "node",
+			"autorestart": true,
+			"vizion": false
+		},
+		{
+			"name": "getNeighborShareDaily",
+			"cwd": "./",
+			"script": "getNeighborShareDaily.js",
+			"log_date_format": "YYYY-MM-DD HH:mm Z",
+			"error_file": "log/getNeighborShareDaily.stderr.log",
+			"out_file": "log/getNeighborShareDaily.stdout.log",
+			"pid_file": "pids/getNeighborShareDaily.pid",
+			"watch": false,
+			"merge_logs": false,
+			"exec_interpreter": "node",
+			"autorestart": true,
+			"vizion": false
+		}
+	]
+}
