@@ -96,7 +96,8 @@ function sendRequestToHost(option){
 				});
 		req.end();
   }catch(err){
-    console.log(err);
+
+    //console.log(err);
   }
 }
 
