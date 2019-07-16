@@ -79,26 +79,25 @@ function sendRequestToHost(option){
           }
           callback(resData);
         });
-        res.on('error', function(err){
-          console.log(err.message);
-          req.end();
-          });
-        res.on('timeout', function(err){
-          console.log(err.message);
-          })
-        req.end();
-      });
+				res.on('error', function(err){
+						console.log(err.message);
+						req.end();
+						});
+				res.on('timeout', function(err){
+						console.log(err.message);
+						})
+				req.end();
+			});
+		req.on('error', function(err){
+				console.log(err.message);
+				});
+		req.on('timeout', function(err){
+				console.log(err.message);
+				});
+		req.end();
   }catch(err){
     console.log(err);
   }
-  req.on('error', function(err){
-      console.log(err.message);
-      });
-  req.on('timeout', function(err){
-      console.log(err.message);
-      });
-  req.end();
-
 }
 
 var args = process.argv.splice(2);
@@ -139,6 +138,11 @@ function getSharePriceByCode(code){
 }
 
 function shareCodeRequestProc(resData){
+	/*
+	console.log("===================");
+	console.log(resData);
+	console.log("===================");
+	*/
 	var share_message = JSON.parse(resData);
 	var msg_arr = null;
 	var fields = null;
