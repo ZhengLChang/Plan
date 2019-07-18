@@ -5,7 +5,7 @@ var sqlite3 = require('sqlite3');
 var mailOptions = {
   from: '13007568302@163.com',
   to: '13007568302@163.com, 779220717@qq.com',
-//to: '13007568302@163.com',
+//	to: '13007568302@163.com',
   subject: 'Hello',
   html: 'Hello, World',
   index: 0
@@ -114,8 +114,15 @@ var req = http.request(options, function(res){
         */
         if(nowSec <= newShareSec && nowSec + (nearDay * 24 * 60 * 60) >= newShareSec)
         {
-
-          newShareList +=  + "名称: " + xgData[i].securityshortname + " Time: " + new Date(newShareSec) + " " + "发行价: " + xgData[i].issueprice + "</br>";
+          newShareList +=  + "名称: " + xgData[i].securityshortname + " Time: " + new Date(newShareSec) + " " + "发行价: " + xgData[i].issueprice;
+					if(xgData[i] == "kcb"){
+						newShareList += "[创]";
+					}else if(xgData[i] == "sh"){
+						newShareList += "[沪]";
+					}else{
+						newShareList += "[深]";
+					}
+				 	newShareList += "</br>";
         }
       }
       if(newShareList != "")
@@ -141,8 +148,8 @@ function sendMailByNewShare(){
 //  console.log(nowDate);
 //  console.log(nowDay);
   if(!((nowDate.getHours() ==10  && nowDate.getMinutes() <= 15) ||  
-      (nowDate.getHours() == 11 && nowDate.getMinutes() <= 15)/* || 
-      (nowDate.getHours() == 13 && nowDate.getMinutes() <= 15)*/))
+      (nowDate.getHours() == 11 && nowDate.getMinutes() <= 15) || 
+      (nowDate.getHours() == 8 && nowDate.getMinutes() <= 25)))
   {
 //    console.log("Now Hour: " + nowDate.getHours);
     return false;
@@ -187,7 +194,13 @@ var req = http.request(options, function(res){
         }
         if(nowYear == newShareYear && nowMonth == newShareMonth && nowDay == newShareday)
         {
-          newShareList += xgData[i].securityshortname + " ";
+					if(xgData[i].sc == "kcb"){
+						newShareList += xgData[i].securityshortname + "【创】 ";
+					}else if(xgData[i].sc == "sh"){
+						newShareList += xgData[i].securityshortname + "【沪】 ";
+					}else{
+						newShareList += xgData[i].securityshortname + "【深】 ";
+					}
         }
       }
       if(newShareList != "")
@@ -261,6 +274,7 @@ var req = http.request(options, function(res){
 }
 
 //getNewShareNearToday(3, printNewShare)
+sendMailByNewShare();
 setInterval(sendMailByNewShare, (15 * 60 + 32)* 1000);
 setInterval(sendMailByPlan, (3 * 60) * 1000);
 //mysqlConn.end();
