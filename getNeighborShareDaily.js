@@ -4,7 +4,7 @@ var http = require('http');
 var mailOptions = {
   from: '13007568302@163.com',
 //  to: '13007568302@163.com, 779220717@qq.com',
-  to: '13007568302@163.com',
+  to: 'zhengtianjie@me.com',
   subject: 'Hello',
   html: 'Hello, World',
   index: 0
@@ -112,7 +112,7 @@ var req = http.request(options, function(res){
         if(nowSec <= newShareSec && nowSec + (nearDay * 24 * 60 * 60) >= newShareSec)
         {
           console.log(xgData[i].purchasedate);
-					if(xgData[i].issueprice == "-"){
+					if(xgData[i].issueprice != "-"){
           newShareList = "名称: " + xgData[i].securityshortname + " Time: " + newShareDate.getFullYear() + "-" + (newShareDate.getMonth() + 1) + "-" + newShareDate.getDate() + " " + "发行价: " + xgData[i].issueprice + "</br>" + newShareList;
 					}else{
           newShareList = "名称: " + xgData[i].securityshortname + " Time: " + newShareDate.getFullYear() + "-" + (newShareDate.getMonth() + 1) + "-" + newShareDate.getDate() + " " + "预估发行价: " + xgData[i].jg1 + "</br>" + newShareList;
@@ -252,8 +252,7 @@ var req = http.request(options, function(res){
     });
     req.end();
 }
-
-setInterval(function(){
+function dailyTask(){
   var nowDate = new Date(Date.now());
   var nowYear = nowDate.getFullYear();
   var nowMonth = nowDate.getMonth();
@@ -263,8 +262,10 @@ setInterval(function(){
     return false;
   }
 	getNewShareNearToday(55, printNewShare);
-	}, 11 * 60 * 1000);
+}
 
+setInterval(dailyTask, 11 * 60 * 1000);
+getNewShareNearToday(55, printNewShare);
 /*
 setInterval(sendMailByNewShare, 11 * 60 * 1000);
 setInterval(sendMailByPlan, 30000);

@@ -4,7 +4,7 @@ var sqlite3 = require('sqlite3');
 /**/
 var mailOptions = {
   from: '13007568302@163.com',
-  to: '13007568302@163.com, 779220717@qq.com',
+  to: 'zhengtianjie@me.com, 779220717@qq.com',
 //	to: '13007568302@163.com',
   subject: 'Hello',
   html: 'Hello, World',

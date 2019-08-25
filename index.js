@@ -2,7 +2,7 @@ var http = require("http");
 var url = require("url");
 var sqlObj = require("./sqlObj");
 var sprintf = require("./sprintf.js");
-var port = 8080;
+var port = 80;
 var path = require("path");
 var fs = require("fs");
 
@@ -30,37 +30,8 @@ var server = http.createServer(function(req, res){
 				}
 				else{
 					res.writeHead(200, {"Content-Type": "text/html; charset=utf8"});
-					res.write('<!DOTTYPE html>');
-					res.write('<html>');
-					res.write('<head>');
-					res.write('<meta charset=utf-8">');
-					res.write(sprintf(['<style>',
-								'label{',
-								'display: inline-block;',
-								'width: 260px;',
-								'margin: 10px 10px;',
-								'}',
-								'</style>'].join('')));
-					res.write('</head>');
-					res.write('<body>');
-					sqlObj.queryAll('select * from plan where `index` >= 4', function(err, row){
-							row.forEach(function(row){
-							res.write(sprintf(['<div>',
-									'<label>%s</label>',
-									'<label>%s</label>',
-									'<label>%s</label></div>'].join(''), 
-									row.trigger_date, 
-									row.subject, 
-									row.data));
-
-									});
-							res.write('</body>');
-							res.write('</html>');
-							res.end();
-							//console.log(row.trigger_date);
-							/*
-									*/
-							});
+					res.write('Hello, world');
+					res.end();
 					}
 				});
 				}catch(err){
@@ -72,4 +43,4 @@ var server = http.createServer(function(req, res){
 		req.on('error', function(err){
 				console.log(err.message);
 				});
-		}).listen(8080);
+		}).listen(80);

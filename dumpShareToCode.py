@@ -33,6 +33,7 @@ class Share(object):
 		curShareReq = request.Request(url='http://api-ddc-wscn.xuangubao.cn/market/real?fields=symbol,prod_name,prod_en_name,price_precision,px_change_rate,px_change,last_px&prod_code=' + shareCode, headers=self.headers, method='GET')
 		curShareResponse = request.urlopen(curShareReq)
 		curShareJson = json.loads(curShareResponse.read().decode('utf-8'))
+		print(curShareJson)
 		curShareSet = curShareJson['data']['snapshot']
 ################处理返回的结果#############################
 		for curShareDot in curShareSet:
@@ -47,6 +48,7 @@ if __name__ == "__main__":
 	share = Share()
 	while not share.exit():
 		shareCodeSet = share.getCodeSet()
+		share.clearRedisResultSet()
 		for shareCodeNode in shareCodeSet:
 			for searchJsonCode in share.getShareCodeByName(shareCodeNode.decode()):
 				share.getShareStatusByCode(shareCodeNode.decode(), searchJsonCode['code'])
