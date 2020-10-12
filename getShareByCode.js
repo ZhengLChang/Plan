@@ -43,6 +43,7 @@ shareNameToCode.set('sz', '399001.SZ');
 shareNameToCode.set('dhgf', '002236.SZ');
 shareNameToCode.set('dh', '002236.SZ');
 shareNameToCode.set('hx', '300657.SZ');
+shareNameToCode.set('tsg', '601000.SS');
 
 function sendRequestToHost(option){
   var hostname = option.hostname,
