@@ -1,0 +1,3 @@
+GET /v3/search/stocks?q=tsg HTTP/1.1
+Host: api-wows-wscn.xuangubao.cn
+User-Agent: Mozilla/5.0 (Linux; Android 7.0; M3 Max Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2074.203 Mobile Safari/537.36
