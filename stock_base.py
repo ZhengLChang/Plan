@@ -4,6 +4,7 @@ from urllib.parse import unquote
 from urllib.parse import quote
 import json
 import traceback
+import time
 import gevent
 from gevent import pool, monkey
 monkey.patch_all()
@@ -91,16 +92,18 @@ class Stock_Base(object):
         return {}
 
     def has_convertible_notes(self, search_keyword):
-        try:
-            notes = self.get_news(search_keyword)
-            notes_dict = json.loads(notes)
-            print(notes_dict)
-            for data in notes_dict["Data"]:
-                for keywords in Stock_Base.convertible_keywords:
-                    if keywords in data["NoticeTitle"]:
-                        return True
-        except Exception as err:
-            print(f"[Exception] [has_convertible_notes {search_keyword}] {traceback.format_exc()}")
+        for _ in range(3):
+            try:
+                notes = self.get_news(search_keyword)
+                notes_dict = json.loads(notes)
+                print(notes_dict)
+                for data in notes_dict["Data"]:
+                    for keywords in Stock_Base.convertible_keywords:
+                        if keywords in data["NoticeTitle"]:
+                            return True
+            except Exception as err:
+                print(f"[Exception] [has_convertible_notes {search_keyword}] {traceback.format_exc()}")
+            time.sleep(1)
         return False
 
     def has_bad_news(self, search_keyword):
@@ -156,16 +159,6 @@ class Stock_Base(object):
             for stock_key,stock_dict in convertible_dict.items():
                 if stock_dict["is_convertible"]:
                     convertible_list.append(stock_dict["stock_name"])
-                    
-            '''
-            for stock in Stock_Base.stock_list_dict["data"]["diff"]:
-                stock_name = stock["f14"]
-                if self.has_convertible_notes(stock_name):
-                    convertible_list.append(stock_name)
-                    print(f"{stock_name} True")
-                else:
-                    print(f"{stock_name} False")
-            '''
         except Exception as err:
             print(f"[Exception] [get_stocks_number] {traceback.format_exc()}")
         return convertible_list
@@ -175,8 +168,8 @@ if __name__ == "__main__":
     #print(obj.get_stock_list())
     #print(obj.get_news(""))
     #print(obj.get_stock("zgpa"))
-    print(obj.has_convertible_notes("熊猫乳品"))
-    #print(obj.get_all_convertible())
+    #print(obj.has_convertible_notes("熊猫乳品"))
+    print(obj.get_all_convertible())
 
 
 
