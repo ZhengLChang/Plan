@@ -6,8 +6,8 @@ import json
 import traceback
 import gevent
 from gevent import pool, monkey
-
-gevent_pool = pool.Pool(500)
+monkey.patch_all()
+gevent_pool = pool.Pool(50)
 
 
 class Stock_Base(object):
@@ -81,7 +81,7 @@ class Stock_Base(object):
         try:
             stock_code_msg = self._get_stock(search_keyword)
             stock_code_msg_dict = json.loads(stock_code_msg)
-            print(stock_code_msg_dict)
+            #print(stock_code_msg_dict)
             if stock_code_msg_dict["code"] != 20000:
                 return None
 
@@ -94,6 +94,7 @@ class Stock_Base(object):
         try:
             notes = self.get_news(search_keyword)
             notes_dict = json.loads(notes)
+            print(notes_dict)
             for data in notes_dict["Data"]:
                 for keywords in Stock_Base.convertible_keywords:
                     if keywords in data["NoticeTitle"]:
@@ -141,8 +142,9 @@ class Stock_Base(object):
                 return convertible_dict, stock_list
 
             def full_stock_convertible_status(convertible_dict, stock_name):
-                print(stock_name)
+                #print(stock_name)
                 if self.has_convertible_notes(stock_name):
+                    print(convertible_dict[stock_name]["stock_name"])
                     convertible_dict[stock_name]["is_convertible"] = True
                 else:
                     convertible_dict[stock_name]["is_convertible"] = False
@@ -151,9 +153,9 @@ class Stock_Base(object):
             tasks = [gevent_pool.spawn(full_stock_convertible_status, convertible_dict, stock_name) for stock_name in stock_list]
             gevent.wait(tasks)
             
-            for convertible_stock in convertible_dict:
-                if convertible_stock["is_convertible"]:
-                    convertible_list.append(convertible_stock["stock_name"])
+            for stock_key,stock_dict in convertible_dict.items():
+                if stock_dict["is_convertible"]:
+                    convertible_list.append(stock_dict["stock_name"])
                     
             '''
             for stock in Stock_Base.stock_list_dict["data"]["diff"]:
@@ -173,8 +175,8 @@ if __name__ == "__main__":
     #print(obj.get_stock_list())
     #print(obj.get_news(""))
     #print(obj.get_stock("zgpa"))
-    #print(obj.has_convertible_notes("长海股份"))
-    print(obj.get_all_convertible())
+    print(obj.has_convertible_notes("熊猫乳品"))
+    #print(obj.get_all_convertible())
 
 
 
