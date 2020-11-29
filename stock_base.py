@@ -13,7 +13,7 @@ gevent_pool = pool.Pool(50)
 
 class Stock_Base(object):
     bad_news_keywords = ['暴跌', '暴雷']
-    convertible_keywords = ["向不特定对象发行可转换公司债券"]
+    convertible_keywords = ["向不特定对象发行可转换公司债券", "公开发行可转换"]
     stock_list_dict = {}
     def __init__(self):
         pass
@@ -91,16 +91,18 @@ class Stock_Base(object):
             print(f"[Exception] [get_stock {search_keyword}] {traceback.format_exc()}")
         return {}
 
-    def has_convertible_notes(self, search_keyword):
+    def has_convertible_notes(self, search_keyword, notice = None):
         for _ in range(3):
             try:
                 notes = self.get_news(search_keyword)
                 notes_dict = json.loads(notes)
-                print(notes_dict)
+                #print(notes_dict)
                 for data in notes_dict["Data"]:
                     for keywords in Stock_Base.convertible_keywords:
                         if keywords in data["NoticeTitle"]:
-                            return True
+                            if notice != None:
+                                notice.append(data["NoticeTitle"])
+                            return True 
             except Exception as err:
                 print(f"[Exception] [has_convertible_notes {search_keyword}] {traceback.format_exc()}")
             time.sleep(1)
@@ -139,16 +141,20 @@ class Stock_Base(object):
                     stock_name = stock["f14"]
                     convertible_dict[stock_name] = {
                         "stock_name": stock_name,
-                        "is_convertible": False
+                        "is_convertible": False,
+                        "notice": "",
                     }
                     stock_list.append(stock_name)
                 return convertible_dict, stock_list
 
             def full_stock_convertible_status(convertible_dict, stock_name):
                 #print(stock_name)
-                if self.has_convertible_notes(stock_name):
-                    print(convertible_dict[stock_name]["stock_name"])
+                notice = list()
+                if self.has_convertible_notes(stock_name, notice = notice):
+                    #print(convertible_dict[stock_name]["stock_name"])
                     convertible_dict[stock_name]["is_convertible"] = True
+                    convertible_dict[stock_name]["notice"] = notice[0]
+                    print(convertible_dict[stock_name]["stock_name"] + "notice: " + convertible_dict[stock_name]["notice"])
                 else:
                     convertible_dict[stock_name]["is_convertible"] = False
 
@@ -158,7 +164,7 @@ class Stock_Base(object):
             
             for stock_key,stock_dict in convertible_dict.items():
                 if stock_dict["is_convertible"]:
-                    convertible_list.append(stock_dict["stock_name"])
+                    convertible_list.append((stock_dict["stock_name"], stock_dict["notice"]))
         except Exception as err:
             print(f"[Exception] [get_stocks_number] {traceback.format_exc()}")
         return convertible_list
@@ -169,7 +175,10 @@ if __name__ == "__main__":
     #print(obj.get_news(""))
     #print(obj.get_stock("zgpa"))
     #print(obj.has_convertible_notes("熊猫乳品"))
-    print(obj.get_all_convertible())
+    convertible_list = obj.get_all_convertible()
+    print(f"Count: {len(convertible_list)}")
+    for stock_name, notice in convertible_list:
+        print(f"{stock_name}: {notice}")
 
 
 
