@@ -2,9 +2,9 @@ from io import StringIO
 import math
 
 class head_topK(object):
-    K = 3
+    K = 30
     def __init__(self, init_arr=list()):
-        self.arr = init_arr
+        self.arr = list(set(init_arr))
         for num in self.arr:
             self.add(num)
 
@@ -35,6 +35,8 @@ class head_topK(object):
 
     def add(self, new_num):
         if type(new_num) == int:
+            if new_num in self.arr:
+              return
             if len(self.arr) == 0:
                 self.arr.append(new_num) 
                 return 
@@ -70,7 +72,6 @@ class head_topK(object):
         print(output.getvalue())
         print('-' * total_width)
         print()
-
 
 
 if __name__ == "__main__":
