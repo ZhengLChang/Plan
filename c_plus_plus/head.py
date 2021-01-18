@@ -20,26 +20,42 @@ def show_tree(tree, total_width=36, fill=' '):
     print('-' * total_width)
     print()
 
-def max_head(arr, arr_len, index):
+
+def head_adjust(arr, arr_len, index):
+    print(f"index: {index}")
     leftIdx = 2 * index + 1
     rightIdx = 2 * index + 2
 
     maxIdx = index
 
-    if leftIdx < arr_len and arr[leftIdx] > arr[maxIdx]:
+    if leftIdx < arr_len and arr[leftIdx] < arr[maxIdx]:
         maxIdx = leftIdx
 
-    if rightIdx < arr_len and arr[rightIdx] > arr_len:
+    if rightIdx < arr_len and arr[rightIdx] < arr[maxIdx]:
         maxIdx = rightIdx
 
     if maxIdx != index:
         tmp = arr[index]
         arr[index] = arr[maxIdx]
         arr[maxIdx] = tmp
-        max_head(arr, len(arr), maxIdx)
+        head_adjust(arr, arr_len, maxIdx)
 
-a = [19, 9, 4, 10, 11]
-for i in range(int(len(a) / 2) - 1, 0, -1):
-    max_head(a, len(a), i)
-show_tree(a)
+def max_head(arr):
+    tmp_arr = list(arr)
+    len_arr = len(tmp_arr)
+    last_non_leaf_node = int(len_arr / 2) - 1
+    print(f"{tmp_arr} => {len_arr} {last_non_leaf_node}")
+    for i in range(last_non_leaf_node, -1, -1):
+        head_adjust(tmp_arr, len_arr, i)
+    return tmp_arr
+
+
+a = [22, 1, 19, 9, 4, 10, 11]
+import time
+new_a = max_head(a)
+#begin = time.time()
+#a = sorted(a)
 print(a)
+print(new_a)
+show_tree(new_a)
+#print(f"{time.time() - begin}")
