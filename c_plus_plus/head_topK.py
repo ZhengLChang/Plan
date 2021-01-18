@@ -34,18 +34,22 @@ class head_topK(object):
         return self.arr
 
     def add(self, new_num):
-        if len(self.arr) == 0:
-            self.arr.append(new_num) 
-            return 
+        if type(new_num) == int:
+            if len(self.arr) == 0:
+                self.arr.append(new_num) 
+                return 
 
-        if len(self.arr) < head_topK.K:
-            self.arr.append(new_num)
-            self.min_head()
-            return
-        if new_num > self.arr[0]:
-            self.arr[0] = new_num
-            self.head_adjust(self.arr, len(self.arr), 0)
-            return
+            if len(self.arr) < head_topK.K:
+                self.arr.append(new_num)
+                self.min_head()
+                return
+            if new_num > self.arr[0]:
+                self.arr[0] = new_num
+                self.head_adjust(self.arr, len(self.arr), 0)
+                return
+        elif type(new_num) == list:
+            for num in new_num:
+                self.add(num)
 
     def show_tree(self, total_width=36, fill=' '):
         """漂亮的打印一棵树。"""
@@ -70,10 +74,11 @@ class head_topK(object):
 
 
 if __name__ == "__main__":
-    obj = head_topK()
+    obj = head_topK([8, 5])
     a = [22, 1, 19, 9, 4, 10, 11]
-    for i in a:
-        obj.add(i)
+    obj.add(a)
+    #for i in a:
+    #    obj.add(i)
     obj.show_tree()
 
 

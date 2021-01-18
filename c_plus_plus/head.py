@@ -41,6 +41,7 @@ def head_adjust(arr, arr_len, index):
         head_adjust(arr, arr_len, maxIdx)
 
 def max_head(arr):
+    print(arr)
     tmp_arr = list(arr)
     len_arr = len(tmp_arr)
     last_non_leaf_node = int(len_arr / 2) - 1
