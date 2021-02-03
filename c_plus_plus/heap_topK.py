@@ -2,22 +2,33 @@ from io import StringIO
 import math
 
 class heap_topK(object):
-    def __init__(self, init_arr=list(), K = 10):
-        self.arr = list(set(init_arr))
+    def __init__(self, compare_func=None, init_arr=list(), K = 100):
+        #self.arr = list(set(init_arr))
         self.K = K
-        for num in self.arr:
+        
+        if compare_func is not None:
+            self.compare_func = compare_func
+        else:
+            self.compare_func = heap_topK.default_compare_func
+        self.arr = list()
+        for num in init_arr:
             self.add(num)
-
+    @staticmethod
+    def default_compare_func(argv1, argv2):
+        if argv1 >= argv2:
+            return True
+        if argv1 < argv2:
+            return False
     def heap_adjust(self, arr, arr_len, index):
         leftIdx = 2 * index + 1
         rightIdx = 2 * index + 2
 
         maxIdx = index
 
-        if leftIdx < arr_len and arr[leftIdx] < arr[maxIdx]:
+        if leftIdx < arr_len and self.compare_func(arr[maxIdx], arr[leftIdx]) is True:
             maxIdx = leftIdx
 
-        if rightIdx < arr_len and arr[rightIdx] < arr[maxIdx]:
+        if rightIdx < arr_len and self.compare_func(arr[maxIdx], arr[rightIdx]) is True:
             maxIdx = rightIdx
 
         if maxIdx != index:
@@ -25,7 +36,7 @@ class heap_topK(object):
             arr[index] = arr[maxIdx]
             arr[maxIdx] = tmp
             self.heap_adjust(arr, arr_len, maxIdx)
-
+    @property
     def result(self):
         tmp_arr = list(self.arr)
         for i in range(len(tmp_arr) - 1, -1, -1):
@@ -43,9 +54,10 @@ class heap_topK(object):
         return self.arr
 
     def add(self, new_num):
-        if type(new_num) == int:
-            if new_num in self.arr:
-              return
+        print(len(self.arr))
+        if type(new_num) == int or type(new_num) == dict:
+            #if new_num in self.arr:
+            # return
             if len(self.arr) == 0:
                 self.arr.append(new_num) 
                 return 
@@ -54,13 +66,15 @@ class heap_topK(object):
                 self.arr.append(new_num)
                 self.heap_sort()
                 return
-            if new_num > self.arr[0]:
+
+            if self.compare_func(new_num, self.arr[0]):
                 self.arr[0] = new_num
                 self.heap_adjust(self.arr, len(self.arr), 0)
                 return
         elif type(new_num) == list:
             for num in new_num:
                 self.add(num)
+
 
     def show_tree(self, total_width=36, fill=' '):
         """漂亮的打印一棵树。"""
@@ -84,13 +98,13 @@ class heap_topK(object):
 
 
 if __name__ == "__main__":
-    obj = heap_topK([8, 5])
-    a = [2, 22, 1, 19, 9, 4, 10, 11]
+    obj = heap_topK(init_arr = [8, 5])
+    a = [2, 22, 1, 5, 19, 9, 4, 10, 11]
     #obj.add(a)
     for i in a:
-        obj.add(i)
+       obj.add(i)
     obj.show_tree()
-    print(obj.result())
+    print(obj.result)
 
 
 
