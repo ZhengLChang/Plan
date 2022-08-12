@@ -13,7 +13,7 @@ gevent_pool = pool.Pool(50)
 
 class Stock_Base(object):
     bad_news_keywords = ['暴跌', '暴雷']
-    convertible_keywords = ["向不特定对象发行可转换公司债券", "公开发行可转换"]
+    convertible_keywords = ["向不特定对象发行可转换公司债券", "公开发行可转换", "发行可交换公司债券"]
     stock_list_dict = {}
     def __init__(self):
         pass
@@ -97,11 +97,12 @@ class Stock_Base(object):
                 notes = self.get_news(search_keyword)
                 notes_dict = json.loads(notes)
                 #print(notes_dict)
+                #print(notes_dict)
                 for data in notes_dict["Data"]:
                     for keywords in Stock_Base.convertible_keywords:
                         if keywords in data["NoticeTitle"]:
                             if notice != None:
-                                notice.append(data["NoticeTitle"])
+                                notice.append(f'{data["NoticeDate"]} {data["NoticeTitle"]}')
                             return True 
             except Exception as err:
                 print(f"[Exception] [has_convertible_notes {search_keyword}] {traceback.format_exc()}")
@@ -169,16 +170,33 @@ class Stock_Base(object):
             print(f"[Exception] [get_stocks_number] {traceback.format_exc()}")
         return convertible_list
 
+import json
 if __name__ == "__main__":
     obj = Stock_Base()
+    notice = []
+    obj.has_convertible_notes("越秀金控", notice)
+    print(notice)
+    '''
+    with open("stock_list.txt", "w") as f:
+        obj.get_stock_list();
+        for stock in obj.stock_list_dict["data"]["diff"]:
+            stock_name = stock["f14"]
+            f.write(stock_name)
+            notice = ""
+            obj.has_convertible_notes(stock_name, notice)
+            f.write(":   " + notice)
+            f.write('\n')
+    '''
     #print(obj.get_stock_list())
     #print(obj.get_news(""))
     #print(obj.get_stock("zgpa"))
     #print(obj.has_convertible_notes("熊猫乳品"))
-    convertible_list = obj.get_all_convertible()
-    print(f"Count: {len(convertible_list)}")
-    for stock_name, notice in convertible_list:
-        print(f"{stock_name}: {notice}")
+
+
+    #convertible_list = obj.get_all_convertible()
+    #print(f"Count: {len(convertible_list)}")
+    #for stock_name, notice in convertible_list:
+    #    print(f"{stock_name}: {notice}")
 
 
 
