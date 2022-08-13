@@ -1,0 +1,2074 @@
+</a>
+        </h2>
+            <div class="button fr">
+                  <div class="clearBtn hide">
+            <a href="/ershoufang/"><span></span>清空条件</a>
+          </div>
+                          
+                      <div class="saveBtn VIEWDATA" data-view-evtid="11885" data-view-event="ItemExpo"
+                 data-action="source_type=PC列表页保存搜索按钮曝光">
+              <a href="#" class="CLICKDATA" data-click-evtid="11886" data-click-event="WebClick"
+                 data-action="source_type=PC列表页保存搜索按钮点击" id="saveBtn"><span></span>保存搜索</a>
+            </div>
+                        </div>
+      </div>
+
+  <div id="newAddHouseContainer"></div>
+
+  <div class="saveMegmask"></div>
+  <div class="saveok">
+    <div class="fl">
+    </div>
+    <div class="fr">
+      <span>已成功保存搜索条件！</span>
+      <p>您可在搜索框右侧下拉列表中快速使用该条件。该条件有新房源出现时，我们将会用站内提醒的方式来通知您</p>
+      <label class="close">确定</label>
+    </div>
+  </div>
+  <div class="saveerror">
+    <div class="fl"></div>
+    <div class="fr">
+      <span>你的搜索条件已达到上限！</span>
+      <p>您可在搜索框右侧下拉列表中快速使用该条件。该条件有新房源出现时，我们将会用站内提醒的方式来通知您。</p>
+      <a href="//user.ke.com/site/searchlist/" rel="nofollow">个人中心</a>
+      <label class="close">取消</label>
+    </div>
+  </div>
+</div>
+                <!-- 无结果留资模块 -->
+                                <!-- 卡片吊顶 -->
+<div data-component="C_semCard">
+            <div id="sem_card"
+             keyword="长安花园"
+             semCommunityId="0"
+             semResblockId="5411100706840"
+             semDistrictId=""
+             semBizcircleId=""
+             semSubwayStationId=""
+             semType="resblock">
+        </div>
+    </div>
+
+                <div data-component="list">
+    <!-- 无搜索结果 -->
+          
+                                      <ul class="sellListContent" log-mod="list">
+                  <li class="clear">
+                          <a class="img VIEWDATA CLICKDATA maidian-detail"
+             data-hreftype="0"
+             data-agentid=""
+             data-maidian="610862042735255552"
+             href="https://dg.ke.com/ershoufang/105110526415.html" target="_blank" title="长安花园三房，业主诚心出售，价格优惠。"
+             data-click-evtid="11178" data-click-event="SearchClick"
+             data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105110526415&resblock_id=5411100706840&click_position=0&fb_expo_id=610862042735255552&vr=0&service_commitment=1&e_plan='
+             data-view-evtid="11435" data-view-event="ItemExpo">
+                  <img class="lj-lazy" src="https://s1.ljcdn.com/pegasus/redskull/images/common/blank.gif?_v=2022080818032744"
+               data-original="https://ke-image.ljcdn.com/110000-inspection/pc1_xRL7pbkrh_1.jpg!m_fill,w_280,h_210,f_jpg?from=ke.com"
+               alt="长安花园三房，业主诚心出售，价格优惠。-东莞长安镇长安新区二手房" title="长安花园三房，业主诚心出售，价格优惠。">
+                                <img src="https://s1.ljcdn.com/pegasus/redskull/images/common/vrgold.png?_v=2022080818032744" class="vr_logo">
+                              </a>
+          <div class="info clear">
+            <div class="title">
+                                            <a class="VIEWDATA CLICKDATA maidian-detail" title="长安花园三房，业主诚心出售，价格优惠。"
+                   data-hreftype="0"
+                   data-agentid=""
+                   data-maidian="610862042735255552" href="https://dg.ke.com/ershoufang/105110526415.html" target="_blank"
+                   data-click-evtid="11178" data-click-event="SearchClick"
+                   data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105110526415&resblock_id=5411100706840&click_position=0&fb_query_id=610862042328408064&fb_expo_id=610862042735255552&fb_item_location=0&fb_service_id=1011901001effect&fb_ab_test_flag=&fb_item_id=105110526415&vr=0&service_commitment=1&e_plan='>长安花园三房，业主诚心出售，价格优惠。</a>
+                                        </div>
+            <div class="address">
+              <div class="flood">
+                <div class="positionInfo">
+                  <span class="positionIcon"></span>
+                                      <a href="https://dg.ke.com/xiaoqu/5411100706840/">长安花园</a>
+                                                    </div>
+              </div>
+              <div class="houseInfo">
+                <span class="houseIcon"></span>
+                                  低楼层
+                                    (共18层)
+                                                                  3室2厅 | 92.03平米
+                                  | 北
+                
+              </div>
+              <div class="followInfo">
+                <span class="starIcon"></span>
+                2人关注
+                / 3月前发布               </div>
+              <div class="tag">
+                                                                    <span class="two">满两年</span>
+                                                                      <span class="isVrFutureHome">VR看装修</span>
+                                                </div>
+
+                <div class="priceInfo">
+                  <div class="totalPrice totalPrice2">
+                    <i>参考价:</i>
+                    <span class=""> 279</span>
+                    <i>万</i>
+                  </div>
+                  <div class="unitPrice" data-hid="105110526415" data-price="">
+                    <span>30,308元/平</span>
+                  </div>
+                </div>
+            </div>
+            <div class="listButtonContainer">
+                              <div class="btn-follow followBtn CLICKDATA" data-hid="105110526415" data-click-evtid="11284"
+                     data-click-event="FavoriteClick"
+                     data-action="item_type=housedel_id&Housedel_id=105110526415&status=0&source_type=PC列表页房源卡片关注按钮&fb_expo_id=610862042735255552">
+                  <span class="follow-text">关注</span>
+                </div>
+                          </div>
+          </li>
+
+                                      <li class="clear">
+                          <a class="img VIEWDATA CLICKDATA maidian-detail"
+             data-hreftype="0"
+             data-agentid=""
+             data-maidian="610862042735255553"
+             href="https://dg.ke.com/ershoufang/105110523155.html" target="_blank" title="长安花园朝南小三房，看小区安静舒适。"
+             data-click-evtid="11178" data-click-event="SearchClick"
+             data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105110523155&resblock_id=5411100706840&click_position=1&fb_expo_id=610862042735255553&vr=0&service_commitment=1&e_plan='
+             data-view-evtid="11435" data-view-event="ItemExpo">
+                  <img class="lj-lazy" src="https://s1.ljcdn.com/pegasus/redskull/images/common/blank.gif?_v=2022080818032744"
+               data-original="https://ke-image.ljcdn.com/110000-inspection/pc1_73Di0dSOo_1.jpg!m_fill,w_280,h_210,f_jpg?from=ke.com"
+               alt="长安花园朝南小三房，看小区安静舒适。-东莞长安镇长安新区二手房" title="长安花园朝南小三房，看小区安静舒适。">
+                                <img src="https://s1.ljcdn.com/pegasus/redskull/images/common/vrgold.png?_v=2022080818032744" class="vr_logo">
+                              </a>
+          <div class="info clear">
+            <div class="title">
+                                            <a class="VIEWDATA CLICKDATA maidian-detail" title="长安花园朝南小三房，看小区安静舒适。"
+                   data-hreftype="0"
+                   data-agentid=""
+                   data-maidian="610862042735255553" href="https://dg.ke.com/ershoufang/105110523155.html" target="_blank"
+                   data-click-evtid="11178" data-click-event="SearchClick"
+                   data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105110523155&resblock_id=5411100706840&click_position=1&fb_query_id=610862042328408064&fb_expo_id=610862042735255553&fb_item_location=1&fb_service_id=1011901001effect&fb_ab_test_flag=&fb_item_id=105110523155&vr=0&service_commitment=1&e_plan='>长安花园朝南小三房，看小区安静舒适。</a>
+                                        </div>
+            <div class="address">
+              <div class="flood">
+                <div class="positionInfo">
+                  <span class="positionIcon"></span>
+                                      <a href="https://dg.ke.com/xiaoqu/5411100706840/">长安花园</a>
+                                                    </div>
+              </div>
+              <div class="houseInfo">
+                <span class="houseIcon"></span>
+                                  低楼层
+                                    (共18层)
+                                                                  3室2厅 | 96.11平米
+                                  | 东南
+                
+              </div>
+              <div class="followInfo">
+                <span class="starIcon"></span>
+                1人关注
+                / 3月前发布               </div>
+              <div class="tag">
+                                                                    <span class="two">满两年</span>
+                                                                      <span class="isVrFutureHome">VR看装修</span>
+                                                </div>
+
+                <div class="priceInfo">
+                  <div class="totalPrice totalPrice2">
+                    <i>参考价:</i>
+                    <span class=""> 292</span>
+                    <i>万</i>
+                  </div>
+                  <div class="unitPrice" data-hid="105110523155" data-price="">
+                    <span>30,308元/平</span>
+                  </div>
+                </div>
+            </div>
+            <div class="listButtonContainer">
+                              <div class="btn-follow followBtn CLICKDATA" data-hid="105110523155" data-click-evtid="11284"
+                     data-click-event="FavoriteClick"
+                     data-action="item_type=housedel_id&Housedel_id=105110523155&status=0&source_type=PC列表页房源卡片关注按钮&fb_expo_id=610862042735255553">
+                  <span class="follow-text">关注</span>
+                </div>
+                          </div>
+          </li>
+
+                                      <li class="clear">
+                          <a class="img VIEWDATA CLICKDATA maidian-detail"
+             data-hreftype="0"
+             data-agentid=""
+             data-maidian="610862042735255554"
+             href="https://dg.ke.com/ershoufang/105110502169.html" target="_blank" title="长安花园小三房业主诚心出售，业主自住看房方便"
+             data-click-evtid="11178" data-click-event="SearchClick"
+             data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105110502169&resblock_id=5411100706840&click_position=2&fb_expo_id=610862042735255554&vr=0&service_commitment=1&e_plan='
+             data-view-evtid="11435" data-view-event="ItemExpo">
+                  <img class="lj-lazy" src="https://s1.ljcdn.com/pegasus/redskull/images/common/blank.gif?_v=2022080818032744"
+               data-original="https://s1.ljcdn.com/pegasus/redskull/images/common/default_house_list.png?_v=2022080818032744"
+               alt="长安花园小三房业主诚心出售，业主自住看房方便-东莞长安镇长安新区二手房" title="长安花园小三房业主诚心出售，业主自住看房方便">
+                                        </a>
+          <div class="info clear">
+            <div class="title">
+                                            <a class="VIEWDATA CLICKDATA maidian-detail" title="长安花园小三房业主诚心出售，业主自住看房方便"
+                   data-hreftype="0"
+                   data-agentid=""
+                   data-maidian="610862042735255554" href="https://dg.ke.com/ershoufang/105110502169.html" target="_blank"
+                   data-click-evtid="11178" data-click-event="SearchClick"
+                   data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105110502169&resblock_id=5411100706840&click_position=2&fb_query_id=610862042328408064&fb_expo_id=610862042735255554&fb_item_location=2&fb_service_id=1011901001effect&fb_ab_test_flag=&fb_item_id=105110502169&vr=0&service_commitment=1&e_plan='>长安花园小三房业主诚心出售，业主自住看房方便</a>
+                                        </div>
+            <div class="address">
+              <div class="flood">
+                <div class="positionInfo">
+                  <span class="positionIcon"></span>
+                                      <a href="https://dg.ke.com/xiaoqu/5411100706840/">长安花园</a>
+                                                    </div>
+              </div>
+              <div class="houseInfo">
+                <span class="houseIcon"></span>
+                                  低楼层
+                                    (共18层)
+                                                                  3室2厅 | 97平米
+                                  | 北
+                
+              </div>
+              <div class="followInfo">
+                <span class="starIcon"></span>
+                3人关注
+                / 3月前发布               </div>
+              <div class="tag">
+                                                                    <span class="taxfree">满五年</span>
+                                                </div>
+
+                <div class="priceInfo">
+                  <div class="totalPrice totalPrice2">
+                    <i>参考价:</i>
+                    <span class=""> 294</span>
+                    <i>万</i>
+                  </div>
+                  <div class="unitPrice" data-hid="105110502169" data-price="">
+                    <span>30,308元/平</span>
+                  </div>
+                </div>
+            </div>
+            <div class="listButtonContainer">
+                              <div class="btn-follow followBtn CLICKDATA" data-hid="105110502169" data-click-evtid="11284"
+                     data-click-event="FavoriteClick"
+                     data-action="item_type=housedel_id&Housedel_id=105110502169&status=0&source_type=PC列表页房源卡片关注按钮&fb_expo_id=610862042735255554">
+                  <span class="follow-text">关注</span>
+                </div>
+                          </div>
+          </li>
+
+                                      <li class="clear">
+                          <a class="img VIEWDATA CLICKDATA maidian-detail"
+             data-hreftype="0"
+             data-agentid=""
+             data-maidian="610862042735255555"
+             href="https://dg.ke.com/ershoufang/105110471386.html" target="_blank" title="滨海新区长安花园精装三房，装修漂亮"
+             data-click-evtid="11178" data-click-event="SearchClick"
+             data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105110471386&resblock_id=5411100706840&click_position=3&fb_expo_id=610862042735255555&vr=0&service_commitment=1&e_plan='
+             data-view-evtid="11435" data-view-event="ItemExpo">
+                  <img class="lj-lazy" src="https://s1.ljcdn.com/pegasus/redskull/images/common/blank.gif?_v=2022080818032744"
+               data-original="https://ke-image.ljcdn.com/110000-inspection/pc1_Iv56Usgvl_1.jpg!m_fill,w_280,h_210,f_jpg?from=ke.com"
+               alt="滨海新区长安花园精装三房，装修漂亮-东莞长安镇长安新区二手房" title="滨海新区长安花园精装三房，装修漂亮">
+                                <img src="https://s1.ljcdn.com/pegasus/redskull/images/common/vrgold.png?_v=2022080818032744" class="vr_logo">
+                              </a>
+          <div class="info clear">
+            <div class="title">
+                                            <a class="VIEWDATA CLICKDATA maidian-detail" title="滨海新区长安花园精装三房，装修漂亮"
+                   data-hreftype="0"
+                   data-agentid=""
+                   data-maidian="610862042735255555" href="https://dg.ke.com/ershoufang/105110471386.html" target="_blank"
+                   data-click-evtid="11178" data-click-event="SearchClick"
+                   data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105110471386&resblock_id=5411100706840&click_position=3&fb_query_id=610862042328408064&fb_expo_id=610862042735255555&fb_item_location=3&fb_service_id=1011901001effect&fb_ab_test_flag=&fb_item_id=105110471386&vr=0&service_commitment=1&e_plan='>滨海新区长安花园精装三房，装修漂亮</a>
+                                        </div>
+            <div class="address">
+              <div class="flood">
+                <div class="positionInfo">
+                  <span class="positionIcon"></span>
+                                      <a href="https://dg.ke.com/xiaoqu/5411100706840/">长安花园</a>
+                                                    </div>
+              </div>
+              <div class="houseInfo">
+                <span class="houseIcon"></span>
+                                  低楼层
+                                    (共18层)
+                                                                  3室1厅 | 92.03平米
+                                  | 北
+                
+              </div>
+              <div class="followInfo">
+                <span class="starIcon"></span>
+                0人关注
+                / 3月前发布               </div>
+              <div class="tag">
+                                                                    <span class="two">满两年</span>
+                                                                      <span class="isVrFutureHome">VR看装修</span>
+                                                </div>
+
+                <div class="priceInfo">
+                  <div class="totalPrice totalPrice2">
+                    <i>参考价:</i>
+                    <span class=""> 279</span>
+                    <i>万</i>
+                  </div>
+                  <div class="unitPrice" data-hid="105110471386" data-price="">
+                    <span>30,308元/平</span>
+                  </div>
+                </div>
+            </div>
+            <div class="listButtonContainer">
+                              <div class="btn-follow followBtn CLICKDATA" data-hid="105110471386" data-click-evtid="11284"
+                     data-click-event="FavoriteClick"
+                     data-action="item_type=housedel_id&Housedel_id=105110471386&status=0&source_type=PC列表页房源卡片关注按钮&fb_expo_id=610862042735255555">
+                  <span class="follow-text">关注</span>
+                </div>
+                          </div>
+          </li>
+
+                                      <li class="clear">
+                          <a class="img VIEWDATA CLICKDATA maidian-detail"
+             data-hreftype="0"
+             data-agentid=""
+             data-maidian="610862042735255556"
+             href="https://dg.ke.com/ershoufang/105110467858.html" target="_blank" title="滨海新区长安花园精装三房，高层南北通"
+             data-click-evtid="11178" data-click-event="SearchClick"
+             data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105110467858&resblock_id=5411100706840&click_position=4&fb_expo_id=610862042735255556&vr=0&service_commitment=1&e_plan='
+             data-view-evtid="11435" data-view-event="ItemExpo">
+                  <img class="lj-lazy" src="https://s1.ljcdn.com/pegasus/redskull/images/common/blank.gif?_v=2022080818032744"
+               data-original="https://ke-image.ljcdn.com/110000-inspection/pc1_Rpt9VdGie_1.jpg!m_fill,w_280,h_210,f_jpg?from=ke.com"
+               alt="滨海新区长安花园精装三房，高层南北通-东莞长安镇长安新区二手房" title="滨海新区长安花园精装三房，高层南北通">
+                                <img src="https://s1.ljcdn.com/pegasus/redskull/images/common/vrgold.png?_v=2022080818032744" class="vr_logo">
+                              </a>
+          <div class="info clear">
+            <div class="title">
+                                            <a class="VIEWDATA CLICKDATA maidian-detail" title="滨海新区长安花园精装三房，高层南北通"
+                   data-hreftype="0"
+                   data-agentid=""
+                   data-maidian="610862042735255556" href="https://dg.ke.com/ershoufang/105110467858.html" target="_blank"
+                   data-click-evtid="11178" data-click-event="SearchClick"
+                   data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105110467858&resblock_id=5411100706840&click_position=4&fb_query_id=610862042328408064&fb_expo_id=610862042735255556&fb_item_location=4&fb_service_id=1011901001effect&fb_ab_test_flag=&fb_item_id=105110467858&vr=0&service_commitment=1&e_plan='>滨海新区长安花园精装三房，高层南北通</a>
+                                        </div>
+            <div class="address">
+              <div class="flood">
+                <div class="positionInfo">
+                  <span class="positionIcon"></span>
+                                      <a href="https://dg.ke.com/xiaoqu/5411100706840/">长安花园</a>
+                                                    </div>
+              </div>
+              <div class="houseInfo">
+                <span class="houseIcon"></span>
+                                  高楼层
+                                    (共18层)
+                                                                  3室2厅 | 95.9平米
+                                  | 北
+                
+              </div>
+              <div class="followInfo">
+                <span class="starIcon"></span>
+                1人关注
+                / 3月前发布               </div>
+              <div class="tag">
+                                                                    <span class="two">满两年</span>
+                                                                      <span class="isVrFutureHome">VR看装修</span>
+                                                </div>
+
+                <div class="priceInfo">
+                  <div class="totalPrice totalPrice2">
+                    <i>参考价:</i>
+                    <span class=""> 291</span>
+                    <i>万</i>
+                  </div>
+                  <div class="unitPrice" data-hid="105110467858" data-price="">
+                    <span>30,308元/平</span>
+                  </div>
+                </div>
+            </div>
+            <div class="listButtonContainer">
+                              <div class="btn-follow followBtn CLICKDATA" data-hid="105110467858" data-click-evtid="11284"
+                     data-click-event="FavoriteClick"
+                     data-action="item_type=housedel_id&Housedel_id=105110467858&status=0&source_type=PC列表页房源卡片关注按钮&fb_expo_id=610862042735255556">
+                  <span class="follow-text">关注</span>
+                </div>
+                          </div>
+          </li>
+
+                                          <li class="list_goodhouse_daoliu  VIEWDATA"
+                      data-view-evtid="22158" data-view-event="ItemExpo"
+                  >
+                      <a class="CLICKDATA" data-click-evtid="22159" data-click-event="WebClick" href="https://dg.ke.com/ershoufang/goodhouse/"><img src="https://img.ljcdn.com/beike/haofang/1572430905201.png" /></a>
+                      <i class="daoliu_close CLICKDATA" data-click-evtid="22160" data-click-event="WebClick"></i>
+                  </li>
+                                                    <li class="clear">
+                          <a class="img VIEWDATA CLICKDATA maidian-detail"
+             data-hreftype="0"
+             data-agentid=""
+             data-maidian="610862042735255557"
+             href="https://dg.ke.com/ershoufang/105110463806.html" target="_blank" title="南向2房2厅满5，业主诚心出售"
+             data-click-evtid="11178" data-click-event="SearchClick"
+             data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105110463806&resblock_id=5411100706840&click_position=5&fb_expo_id=610862042735255557&vr=0&service_commitment=1&e_plan='
+             data-view-evtid="11435" data-view-event="ItemExpo">
+                  <img class="lj-lazy" src="https://s1.ljcdn.com/pegasus/redskull/images/common/blank.gif?_v=2022080818032744"
+               data-original="https://ke-image.ljcdn.com/110000-inspection/pc1_uF9jtkB0X_1.jpg!m_fill,w_280,h_210,f_jpg?from=ke.com"
+               alt="南向2房2厅满5，业主诚心出售-东莞长安镇长安新区二手房" title="南向2房2厅满5，业主诚心出售">
+                                <img src="https://s1.ljcdn.com/pegasus/redskull/images/common/vrgold.png?_v=2022080818032744" class="vr_logo">
+                              </a>
+          <div class="info clear">
+            <div class="title">
+                                            <a class="VIEWDATA CLICKDATA maidian-detail" title="南向2房2厅满5，业主诚心出售"
+                   data-hreftype="0"
+                   data-agentid=""
+                   data-maidian="610862042735255557" href="https://dg.ke.com/ershoufang/105110463806.html" target="_blank"
+                   data-click-evtid="11178" data-click-event="SearchClick"
+                   data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105110463806&resblock_id=5411100706840&click_position=5&fb_query_id=610862042328408064&fb_expo_id=610862042735255557&fb_item_location=5&fb_service_id=1011901001effect&fb_ab_test_flag=&fb_item_id=105110463806&vr=0&service_commitment=1&e_plan='>南向2房2厅满5，业主诚心出售</a>
+                                        </div>
+            <div class="address">
+              <div class="flood">
+                <div class="positionInfo">
+                  <span class="positionIcon"></span>
+                                      <a href="https://dg.ke.com/xiaoqu/5411100706840/">长安花园</a>
+                                                    </div>
+              </div>
+              <div class="houseInfo">
+                <span class="houseIcon"></span>
+                                  高楼层
+                                    (共18层)
+                                                                  2室1厅 | 77.65平米
+                                  | 南
+                
+              </div>
+              <div class="followInfo">
+                <span class="starIcon"></span>
+                2人关注
+                / 3月前发布               </div>
+              <div class="tag">
+                                                                    <span class="taxfree">满五年</span>
+                                                                      <span class="isVrFutureHome">VR看装修</span>
+                                                </div>
+
+                <div class="priceInfo">
+                  <div class="totalPrice totalPrice2">
+                    <i>参考价:</i>
+                    <span class=""> 236</span>
+                    <i>万</i>
+                  </div>
+                  <div class="unitPrice" data-hid="105110463806" data-price="">
+                    <span>30,308元/平</span>
+                  </div>
+                </div>
+            </div>
+            <div class="listButtonContainer">
+                              <div class="btn-follow followBtn CLICKDATA" data-hid="105110463806" data-click-evtid="11284"
+                     data-click-event="FavoriteClick"
+                     data-action="item_type=housedel_id&Housedel_id=105110463806&status=0&source_type=PC列表页房源卡片关注按钮&fb_expo_id=610862042735255557">
+                  <span class="follow-text">关注</span>
+                </div>
+                          </div>
+          </li>
+
+                                      <li class="clear">
+                          <a class="img VIEWDATA CLICKDATA maidian-detail"
+             data-hreftype="0"
+             data-agentid=""
+             data-maidian="610862042735255558"
+             href="https://dg.ke.com/ershoufang/105110449008.html" target="_blank" title="长安花园朝南看小区方正两房诚心出售，安静舒适"
+             data-click-evtid="11178" data-click-event="SearchClick"
+             data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105110449008&resblock_id=5411100706840&click_position=6&fb_expo_id=610862042735255558&vr=0&service_commitment=1&e_plan='
+             data-view-evtid="11435" data-view-event="ItemExpo">
+                  <img class="lj-lazy" src="https://s1.ljcdn.com/pegasus/redskull/images/common/blank.gif?_v=2022080818032744"
+               data-original="https://ke-image.ljcdn.com/hdic-frame/cyclops-5KrO2oDOpWNMoake.jpg!m_fill,w_280,h_210,f_jpg?from=ke.com"
+               alt="长安花园朝南看小区方正两房诚心出售，安静舒适-东莞长安镇长安新区二手房" title="长安花园朝南看小区方正两房诚心出售，安静舒适">
+                                        </a>
+          <div class="info clear">
+            <div class="title">
+                                            <a class="VIEWDATA CLICKDATA maidian-detail" title="长安花园朝南看小区方正两房诚心出售，安静舒适"
+                   data-hreftype="0"
+                   data-agentid=""
+                   data-maidian="610862042735255558" href="https://dg.ke.com/ershoufang/105110449008.html" target="_blank"
+                   data-click-evtid="11178" data-click-event="SearchClick"
+                   data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105110449008&resblock_id=5411100706840&click_position=6&fb_query_id=610862042328408064&fb_expo_id=610862042735255558&fb_item_location=6&fb_service_id=1011901001effect&fb_ab_test_flag=&fb_item_id=105110449008&vr=0&service_commitment=1&e_plan='>长安花园朝南看小区方正两房诚心出售，安静舒适</a>
+                                        </div>
+            <div class="address">
+              <div class="flood">
+                <div class="positionInfo">
+                  <span class="positionIcon"></span>
+                                      <a href="https://dg.ke.com/xiaoqu/5411100706840/">长安花园</a>
+                                                    </div>
+              </div>
+              <div class="houseInfo">
+                <span class="houseIcon"></span>
+                                  中楼层
+                                    (共18层)
+                                                                  2室2厅 | 81.19平米
+                                  | 南
+                
+              </div>
+              <div class="followInfo">
+                <span class="starIcon"></span>
+                0人关注
+                / 3月前发布               </div>
+              <div class="tag">
+                                                                    <span class="taxfree">满五年</span>
+                                                </div>
+
+                <div class="priceInfo">
+                  <div class="totalPrice totalPrice2">
+                    <i>参考价:</i>
+                    <span class=""> 247</span>
+                    <i>万</i>
+                  </div>
+                  <div class="unitPrice" data-hid="105110449008" data-price="">
+                    <span>30,308元/平</span>
+                  </div>
+                </div>
+            </div>
+            <div class="listButtonContainer">
+                              <div class="btn-follow followBtn CLICKDATA" data-hid="105110449008" data-click-evtid="11284"
+                     data-click-event="FavoriteClick"
+                     data-action="item_type=housedel_id&Housedel_id=105110449008&status=0&source_type=PC列表页房源卡片关注按钮&fb_expo_id=610862042735255558">
+                  <span class="follow-text">关注</span>
+                </div>
+                          </div>
+          </li>
+
+                                      <li class="clear">
+                          <a class="img VIEWDATA CLICKDATA maidian-detail"
+             data-hreftype="0"
+             data-agentid=""
+             data-maidian="610862042735255559"
+             href="https://dg.ke.com/ershoufang/105110420158.html" target="_blank" title="长安花园 2室1厅 北"
+             data-click-evtid="11178" data-click-event="SearchClick"
+             data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105110420158&resblock_id=5411100706840&click_position=7&fb_expo_id=610862042735255559&vr=1&service_commitment=1&e_plan='
+             data-view-evtid="11435" data-view-event="ItemExpo">
+                  <img class="lj-lazy" src="https://s1.ljcdn.com/pegasus/redskull/images/common/blank.gif?_v=2022080818032744"
+               data-original="https://ke-image.ljcdn.com/110000-inspection/pc1_etOPpOO1S_1.jpg!m_fill,w_280,h_210,f_jpg?from=ke.com"
+               alt="长安花园 2室1厅 北-东莞长安镇长安新区二手房" title="长安花园 2室1厅 北">
+                      <img src="https://s1.ljcdn.com/pegasus/redskull/images/common/vrlogo@2x.png?_v=2022080818032744" class="vr_logo">
+                                        </a>
+          <div class="info clear">
+            <div class="title">
+                                            <a class="VIEWDATA CLICKDATA maidian-detail" title="长安花园 2室1厅 北"
+                   data-hreftype="0"
+                   data-agentid=""
+                   data-maidian="610862042735255559" href="https://dg.ke.com/ershoufang/105110420158.html" target="_blank"
+                   data-click-evtid="11178" data-click-event="SearchClick"
+                   data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105110420158&resblock_id=5411100706840&click_position=7&fb_query_id=610862042328408064&fb_expo_id=610862042735255559&fb_item_location=7&fb_service_id=1011901001effect&fb_ab_test_flag=&fb_item_id=105110420158&vr=1&service_commitment=1&e_plan='>长安花园 2室1厅 北</a>
+                                        </div>
+            <div class="address">
+              <div class="flood">
+                <div class="positionInfo">
+                  <span class="positionIcon"></span>
+                                      <a href="https://dg.ke.com/xiaoqu/5411100706840/">长安花园</a>
+                                                    </div>
+              </div>
+              <div class="houseInfo">
+                <span class="houseIcon"></span>
+                                  高楼层
+                                    (共11层)
+                                                                  2室1厅 | 76平米
+                                  | 北
+                
+              </div>
+              <div class="followInfo">
+                <span class="starIcon"></span>
+                1人关注
+                / 3月前发布               </div>
+              <div class="tag">
+                                                                    <span class="taxfree">满五年</span>
+                                                                      <span class="isVrFutureHome">VR房源</span>
+                                                                      <span class="is_key">随时看房</span>
+                                                </div>
+
+                <div class="priceInfo">
+                  <div class="totalPrice totalPrice2">
+                    <i>参考价:</i>
+                    <span class=""> 231</span>
+                    <i>万</i>
+                  </div>
+                  <div class="unitPrice" data-hid="105110420158" data-price="">
+                    <span>30,308元/平</span>
+                  </div>
+                </div>
+            </div>
+            <div class="listButtonContainer">
+                              <div class="btn-follow followBtn CLICKDATA" data-hid="105110420158" data-click-evtid="11284"
+                     data-click-event="FavoriteClick"
+                     data-action="item_type=housedel_id&Housedel_id=105110420158&status=0&source_type=PC列表页房源卡片关注按钮&fb_expo_id=610862042735255559">
+                  <span class="follow-text">关注</span>
+                </div>
+                          </div>
+          </li>
+
+                                      <li class="clear">
+                          <a class="img VIEWDATA CLICKDATA maidian-detail"
+             data-hreftype="0"
+             data-agentid=""
+             data-maidian="610862042735255560"
+             href="https://dg.ke.com/ershoufang/105110391752.html" target="_blank" title="长安花园户型方正三房业主出售，经济小三房总价低"
+             data-click-evtid="11178" data-click-event="SearchClick"
+             data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105110391752&resblock_id=5411100706840&click_position=8&fb_expo_id=610862042735255560&vr=0&service_commitment=1&e_plan='
+             data-view-evtid="11435" data-view-event="ItemExpo">
+                  <img class="lj-lazy" src="https://s1.ljcdn.com/pegasus/redskull/images/common/blank.gif?_v=2022080818032744"
+               data-original="https://ke-image.ljcdn.com/441900-frame/c9d19ea5-8794-4584-bd57-6fca18de992b.jpg!m_fill,w_280,h_210,f_jpg?from=ke.com"
+               alt="长安花园户型方正三房业主出售，经济小三房总价低-东莞长安镇长安新区二手房" title="长安花园户型方正三房业主出售，经济小三房总价低">
+                                        </a>
+          <div class="info clear">
+            <div class="title">
+                                            <a class="VIEWDATA CLICKDATA maidian-detail" title="长安花园户型方正三房业主出售，经济小三房总价低"
+                   data-hreftype="0"
+                   data-agentid=""
+                   data-maidian="610862042735255560" href="https://dg.ke.com/ershoufang/105110391752.html" target="_blank"
+                   data-click-evtid="11178" data-click-event="SearchClick"
+                   data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105110391752&resblock_id=5411100706840&click_position=8&fb_query_id=610862042328408064&fb_expo_id=610862042735255560&fb_item_location=8&fb_service_id=1011901001effect&fb_ab_test_flag=&fb_item_id=105110391752&vr=0&service_commitment=1&e_plan='>长安花园户型方正三房业主出售，经济小三房总价低</a>
+                                        </div>
+            <div class="address">
+              <div class="flood">
+                <div class="positionInfo">
+                  <span class="positionIcon"></span>
+                                      <a href="https://dg.ke.com/xiaoqu/5411100706840/">长安花园</a>
+                                                    </div>
+              </div>
+              <div class="houseInfo">
+                <span class="houseIcon"></span>
+                                  中楼层
+                                    (共18层)
+                                                                  3室2厅 | 92.03平米
+                                  | 北
+                
+              </div>
+              <div class="followInfo">
+                <span class="starIcon"></span>
+                0人关注
+                / 3月前发布               </div>
+              <div class="tag">
+                                                                    <span class="taxfree">满五年</span>
+                                                </div>
+
+                <div class="priceInfo">
+                  <div class="totalPrice totalPrice2">
+                    <i>参考价:</i>
+                    <span class=""> 279</span>
+                    <i>万</i>
+                  </div>
+                  <div class="unitPrice" data-hid="105110391752" data-price="">
+                    <span>30,308元/平</span>
+                  </div>
+                </div>
+            </div>
+            <div class="listButtonContainer">
+                              <div class="btn-follow followBtn CLICKDATA" data-hid="105110391752" data-click-evtid="11284"
+                     data-click-event="FavoriteClick"
+                     data-action="item_type=housedel_id&Housedel_id=105110391752&status=0&source_type=PC列表页房源卡片关注按钮&fb_expo_id=610862042735255560">
+                  <span class="follow-text">关注</span>
+                </div>
+                          </div>
+          </li>
+
+                                      <li class="clear">
+                          <a class="img VIEWDATA CLICKDATA maidian-detail"
+             data-hreftype="0"
+             data-agentid=""
+             data-maidian="610862042735255561"
+             href="https://dg.ke.com/ershoufang/105110214061.html" target="_blank" title="长安花园朝南高楼层两房出售，指导价可卖"
+             data-click-evtid="11178" data-click-event="SearchClick"
+             data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105110214061&resblock_id=5411100706840&click_position=9&fb_expo_id=610862042735255561&vr=0&service_commitment=1&e_plan='
+             data-view-evtid="11435" data-view-event="ItemExpo">
+                  <img class="lj-lazy" src="https://s1.ljcdn.com/pegasus/redskull/images/common/blank.gif?_v=2022080818032744"
+               data-original="https://ke-image.ljcdn.com/110000-inspection/pc1_KJqvXo2sx_1.jpg!m_fill,w_280,h_210,f_jpg?from=ke.com"
+               alt="长安花园朝南高楼层两房出售，指导价可卖-东莞长安镇长安新区二手房" title="长安花园朝南高楼层两房出售，指导价可卖">
+                                <img src="https://s1.ljcdn.com/pegasus/redskull/images/common/vrgold.png?_v=2022080818032744" class="vr_logo">
+                              </a>
+          <div class="info clear">
+            <div class="title">
+                                            <a class="VIEWDATA CLICKDATA maidian-detail" title="长安花园朝南高楼层两房出售，指导价可卖"
+                   data-hreftype="0"
+                   data-agentid=""
+                   data-maidian="610862042735255561" href="https://dg.ke.com/ershoufang/105110214061.html" target="_blank"
+                   data-click-evtid="11178" data-click-event="SearchClick"
+                   data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105110214061&resblock_id=5411100706840&click_position=9&fb_query_id=610862042328408064&fb_expo_id=610862042735255561&fb_item_location=9&fb_service_id=1011901001effect&fb_ab_test_flag=&fb_item_id=105110214061&vr=0&service_commitment=1&e_plan='>长安花园朝南高楼层两房出售，指导价可卖</a>
+                            <span class="goodhouse_tag tagBlock">必看好房</span>
+                          </div>
+            <div class="address">
+              <div class="flood">
+                <div class="positionInfo">
+                  <span class="positionIcon"></span>
+                                      <a href="https://dg.ke.com/xiaoqu/5411100706840/">长安花园</a>
+                                                    </div>
+              </div>
+              <div class="houseInfo">
+                <span class="houseIcon"></span>
+                                  高楼层
+                                    (共15层)
+                                                                  2室2厅 | 78.01平米
+                                  | 南
+                
+              </div>
+              <div class="followInfo">
+                <span class="starIcon"></span>
+                15人关注
+                / 4月前发布               </div>
+              <div class="tag">
+                                                                    <span class="taxfree">满五年</span>
+                                                                      <span class="isVrFutureHome">VR看装修</span>
+                                                                      <span class="is_key">随时看房</span>
+                                                </div>
+
+                <div class="priceInfo">
+                  <div class="totalPrice totalPrice2">
+                    <i>参考价:</i>
+                    <span class=""> 237</span>
+                    <i>万</i>
+                  </div>
+                  <div class="unitPrice" data-hid="105110214061" data-price="">
+                    <span>30,308元/平</span>
+                  </div>
+                </div>
+            </div>
+            <div class="listButtonContainer">
+                              <div class="btn-follow followBtn CLICKDATA" data-hid="105110214061" data-click-evtid="11284"
+                     data-click-event="FavoriteClick"
+                     data-action="item_type=housedel_id&Housedel_id=105110214061&status=0&source_type=PC列表页房源卡片关注按钮&fb_expo_id=610862042735255561">
+                  <span class="follow-text">关注</span>
+                </div>
+                          </div>
+          </li>
+
+                                      <li class="clear">
+                          <a class="img VIEWDATA CLICKDATA maidian-detail"
+             data-hreftype="0"
+             data-agentid=""
+             data-maidian="610862042735255562"
+             href="https://dg.ke.com/ershoufang/105110208528.html" target="_blank" title="滨海湾新区长安花园两房看小区中楼层"
+             data-click-evtid="11178" data-click-event="SearchClick"
+             data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105110208528&resblock_id=5411100706840&click_position=10&fb_expo_id=610862042735255562&vr=0&service_commitment=1&e_plan='
+             data-view-evtid="11435" data-view-event="ItemExpo">
+                  <img class="lj-lazy" src="https://s1.ljcdn.com/pegasus/redskull/images/common/blank.gif?_v=2022080818032744"
+               data-original="https://ke-image.ljcdn.com/110000-inspection/pc1_SbWAnnDuJ_1.jpg!m_fill,w_280,h_210,f_jpg?from=ke.com"
+               alt="滨海湾新区长安花园两房看小区中楼层-东莞长安镇长安新区二手房" title="滨海湾新区长安花园两房看小区中楼层">
+                                <img src="https://s1.ljcdn.com/pegasus/redskull/images/common/vrgold.png?_v=2022080818032744" class="vr_logo">
+                              </a>
+          <div class="info clear">
+            <div class="title">
+                                            <a class="VIEWDATA CLICKDATA maidian-detail" title="滨海湾新区长安花园两房看小区中楼层"
+                   data-hreftype="0"
+                   data-agentid=""
+                   data-maidian="610862042735255562" href="https://dg.ke.com/ershoufang/105110208528.html" target="_blank"
+                   data-click-evtid="11178" data-click-event="SearchClick"
+                   data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105110208528&resblock_id=5411100706840&click_position=10&fb_query_id=610862042328408064&fb_expo_id=610862042735255562&fb_item_location=10&fb_service_id=1011901001effect&fb_ab_test_flag=&fb_item_id=105110208528&vr=0&service_commitment=1&e_plan='>滨海湾新区长安花园两房看小区中楼层</a>
+                                        </div>
+            <div class="address">
+              <div class="flood">
+                <div class="positionInfo">
+                  <span class="positionIcon"></span>
+                                      <a href="https://dg.ke.com/xiaoqu/5411100706840/">长安花园</a>
+                                                    </div>
+              </div>
+              <div class="houseInfo">
+                <span class="houseIcon"></span>
+                                  中楼层
+                                    (共13层)
+                                                                  2室2厅 | 78.3平米
+                                  | 南
+                
+              </div>
+              <div class="followInfo">
+                <span class="starIcon"></span>
+                0人关注
+                / 4月前发布               </div>
+              <div class="tag">
+                                                                    <span class="taxfree">满五年</span>
+                                                                      <span class="isVrFutureHome">VR看装修</span>
+                                                </div>
+
+                <div class="priceInfo">
+                  <div class="totalPrice totalPrice2">
+                    <i>参考价:</i>
+                    <span class=""> 238</span>
+                    <i>万</i>
+                  </div>
+                  <div class="unitPrice" data-hid="105110208528" data-price="">
+                    <span>30,308元/平</span>
+                  </div>
+                </div>
+            </div>
+            <div class="listButtonContainer">
+                              <div class="btn-follow followBtn CLICKDATA" data-hid="105110208528" data-click-evtid="11284"
+                     data-click-event="FavoriteClick"
+                     data-action="item_type=housedel_id&Housedel_id=105110208528&status=0&source_type=PC列表页房源卡片关注按钮&fb_expo_id=610862042735255562">
+                  <span class="follow-text">关注</span>
+                </div>
+                          </div>
+          </li>
+
+                                      <li class="clear">
+                          <a class="img VIEWDATA CLICKDATA maidian-detail"
+             data-hreftype="0"
+             data-agentid=""
+             data-maidian="610862042735255563"
+             href="https://dg.ke.com/ershoufang/105109578432.html" target="_blank" title="滨海湾长安花园，满五年，高楼层朝南看花园，采光好"
+             data-click-evtid="11178" data-click-event="SearchClick"
+             data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105109578432&resblock_id=5411100706840&click_position=11&fb_expo_id=610862042735255563&vr=0&service_commitment=1&e_plan='
+             data-view-evtid="11435" data-view-event="ItemExpo">
+                  <img class="lj-lazy" src="https://s1.ljcdn.com/pegasus/redskull/images/common/blank.gif?_v=2022080818032744"
+               data-original="https://ke-image.ljcdn.com/110000-inspection/pc1_8ETELLclY_1.jpg!m_fill,w_280,h_210,f_jpg?from=ke.com"
+               alt="滨海湾长安花园，满五年，高楼层朝南看花园，采光好-东莞长安镇长安新区二手房" title="滨海湾长安花园，满五年，高楼层朝南看花园，采光好">
+                                <img src="https://s1.ljcdn.com/pegasus/redskull/images/common/vrgold.png?_v=2022080818032744" class="vr_logo">
+                              </a>
+          <div class="info clear">
+            <div class="title">
+                                            <a class="VIEWDATA CLICKDATA maidian-detail" title="滨海湾长安花园，满五年，高楼层朝南看花园，采光好"
+                   data-hreftype="0"
+                   data-agentid=""
+                   data-maidian="610862042735255563" href="https://dg.ke.com/ershoufang/105109578432.html" target="_blank"
+                   data-click-evtid="11178" data-click-event="SearchClick"
+                   data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105109578432&resblock_id=5411100706840&click_position=11&fb_query_id=610862042328408064&fb_expo_id=610862042735255563&fb_item_location=11&fb_service_id=1011901001effect&fb_ab_test_flag=&fb_item_id=105109578432&vr=0&service_commitment=1&e_plan='>滨海湾长安花园，满五年，高楼层朝南看花园，采光好</a>
+                                        </div>
+            <div class="address">
+              <div class="flood">
+                <div class="positionInfo">
+                  <span class="positionIcon"></span>
+                                      <a href="https://dg.ke.com/xiaoqu/5411100706840/">长安花园</a>
+                                                    </div>
+              </div>
+              <div class="houseInfo">
+                <span class="houseIcon"></span>
+                                  高楼层
+                                    (共15层)
+                                                                  2室2厅 | 77.96平米
+                                  | 南
+                
+              </div>
+              <div class="followInfo">
+                <span class="starIcon"></span>
+                1人关注
+                / 7月前发布               </div>
+              <div class="tag">
+                                                                    <span class="taxfree">满五年</span>
+                                                                      <span class="isVrFutureHome">VR看装修</span>
+                                                </div>
+
+                <div class="priceInfo">
+                  <div class="totalPrice totalPrice2">
+                    <i>参考价:</i>
+                    <span class=""> 237</span>
+                    <i>万</i>
+                  </div>
+                  <div class="unitPrice" data-hid="105109578432" data-price="">
+                    <span>30,308元/平</span>
+                  </div>
+                </div>
+            </div>
+            <div class="listButtonContainer">
+                              <div class="btn-follow followBtn CLICKDATA" data-hid="105109578432" data-click-evtid="11284"
+                     data-click-event="FavoriteClick"
+                     data-action="item_type=housedel_id&Housedel_id=105109578432&status=0&source_type=PC列表页房源卡片关注按钮&fb_expo_id=610862042735255563">
+                  <span class="follow-text">关注</span>
+                </div>
+                          </div>
+          </li>
+
+                                      <li class="clear">
+                          <a class="img VIEWDATA CLICKDATA maidian-detail"
+             data-hreftype="0"
+             data-agentid=""
+             data-maidian="610862042735255564"
+             href="https://dg.ke.com/ershoufang/105109364825.html" target="_blank" title="长安花园朝南两房，户型方正，交通便利"
+             data-click-evtid="11178" data-click-event="SearchClick"
+             data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105109364825&resblock_id=5411100706840&click_position=12&fb_expo_id=610862042735255564&vr=0&service_commitment=1&e_plan='
+             data-view-evtid="11435" data-view-event="ItemExpo">
+                  <img class="lj-lazy" src="https://s1.ljcdn.com/pegasus/redskull/images/common/blank.gif?_v=2022080818032744"
+               data-original="https://ke-image.ljcdn.com/110000-inspection/pc1_KMfQpuayK_1.jpg!m_fill,w_280,h_210,f_jpg?from=ke.com"
+               alt="长安花园朝南两房，户型方正，交通便利-东莞长安镇长安新区二手房" title="长安花园朝南两房，户型方正，交通便利">
+                                <img src="https://s1.ljcdn.com/pegasus/redskull/images/common/vrgold.png?_v=2022080818032744" class="vr_logo">
+                              </a>
+          <div class="info clear">
+            <div class="title">
+                                            <a class="VIEWDATA CLICKDATA maidian-detail" title="长安花园朝南两房，户型方正，交通便利"
+                   data-hreftype="0"
+                   data-agentid=""
+                   data-maidian="610862042735255564" href="https://dg.ke.com/ershoufang/105109364825.html" target="_blank"
+                   data-click-evtid="11178" data-click-event="SearchClick"
+                   data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105109364825&resblock_id=5411100706840&click_position=12&fb_query_id=610862042328408064&fb_expo_id=610862042735255564&fb_item_location=12&fb_service_id=1011901001effect&fb_ab_test_flag=&fb_item_id=105109364825&vr=0&service_commitment=1&e_plan='>长安花园朝南两房，户型方正，交通便利</a>
+                                        </div>
+            <div class="address">
+              <div class="flood">
+                <div class="positionInfo">
+                  <span class="positionIcon"></span>
+                                      <a href="https://dg.ke.com/xiaoqu/5411100706840/">长安花园</a>
+                                                    </div>
+              </div>
+              <div class="houseInfo">
+                <span class="houseIcon"></span>
+                                  中楼层
+                                    (共11层)
+                                                                  2室2厅 | 78平米
+                                  | 南
+                
+              </div>
+              <div class="followInfo">
+                <span class="starIcon"></span>
+                0人关注
+                / 8月前发布               </div>
+              <div class="tag">
+                                                                    <span class="isVrFutureHome">VR看装修</span>
+                                                </div>
+
+                <div class="priceInfo">
+                  <div class="totalPrice totalPrice2">
+                    <i>参考价:</i>
+                    <span class=""> 237</span>
+                    <i>万</i>
+                  </div>
+                  <div class="unitPrice" data-hid="105109364825" data-price="">
+                    <span>30,308元/平</span>
+                  </div>
+                </div>
+            </div>
+            <div class="listButtonContainer">
+                              <div class="btn-follow followBtn CLICKDATA" data-hid="105109364825" data-click-evtid="11284"
+                     data-click-event="FavoriteClick"
+                     data-action="item_type=housedel_id&Housedel_id=105109364825&status=0&source_type=PC列表页房源卡片关注按钮&fb_expo_id=610862042735255564">
+                  <span class="follow-text">关注</span>
+                </div>
+                          </div>
+          </li>
+
+                                      <li class="clear">
+                          <a class="img VIEWDATA CLICKDATA maidian-detail"
+             data-hreftype="0"
+             data-agentid=""
+             data-maidian="610862042735255565"
+             href="https://dg.ke.com/ershoufang/105109347798.html" target="_blank" title="长安花园朝南方正户型，满五唯一"
+             data-click-evtid="11178" data-click-event="SearchClick"
+             data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105109347798&resblock_id=5411100706840&click_position=13&fb_expo_id=610862042735255565&vr=0&service_commitment=1&e_plan='
+             data-view-evtid="11435" data-view-event="ItemExpo">
+                  <img class="lj-lazy" src="https://s1.ljcdn.com/pegasus/redskull/images/common/blank.gif?_v=2022080818032744"
+               data-original="https://ke-image.ljcdn.com/110000-inspection/pc1_2uAufVAMO_1.jpg!m_fill,w_280,h_210,f_jpg?from=ke.com"
+               alt="长安花园朝南方正户型，满五唯一-东莞长安镇长安新区二手房" title="长安花园朝南方正户型，满五唯一">
+                                <img src="https://s1.ljcdn.com/pegasus/redskull/images/common/vrgold.png?_v=2022080818032744" class="vr_logo">
+                              </a>
+          <div class="info clear">
+            <div class="title">
+                                            <a class="VIEWDATA CLICKDATA maidian-detail" title="长安花园朝南方正户型，满五唯一"
+                   data-hreftype="0"
+                   data-agentid=""
+                   data-maidian="610862042735255565" href="https://dg.ke.com/ershoufang/105109347798.html" target="_blank"
+                   data-click-evtid="11178" data-click-event="SearchClick"
+                   data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105109347798&resblock_id=5411100706840&click_position=13&fb_query_id=610862042328408064&fb_expo_id=610862042735255565&fb_item_location=13&fb_service_id=1011901001effect&fb_ab_test_flag=&fb_item_id=105109347798&vr=0&service_commitment=1&e_plan='>长安花园朝南方正户型，满五唯一</a>
+                                        </div>
+            <div class="address">
+              <div class="flood">
+                <div class="positionInfo">
+                  <span class="positionIcon"></span>
+                                      <a href="https://dg.ke.com/xiaoqu/5411100706840/">长安花园</a>
+                                                    </div>
+              </div>
+              <div class="houseInfo">
+                <span class="houseIcon"></span>
+                                  高楼层
+                                    (共18层)
+                                                                  2室2厅 | 80.86平米
+                                  | 南
+                
+              </div>
+              <div class="followInfo">
+                <span class="starIcon"></span>
+                3人关注
+                / 8月前发布               </div>
+              <div class="tag">
+                                                                    <span class="taxfree">满五年</span>
+                                                                      <span class="isVrFutureHome">VR看装修</span>
+                                                                      <span class="is_key">随时看房</span>
+                                                </div>
+
+                <div class="priceInfo">
+                  <div class="totalPrice totalPrice2">
+                    <i>参考价:</i>
+                    <span class=""> 246</span>
+                    <i>万</i>
+                  </div>
+                  <div class="unitPrice" data-hid="105109347798" data-price="">
+                    <span>30,308元/平</span>
+                  </div>
+                </div>
+            </div>
+            <div class="listButtonContainer">
+                              <div class="btn-follow followBtn CLICKDATA" data-hid="105109347798" data-click-evtid="11284"
+                     data-click-event="FavoriteClick"
+                     data-action="item_type=housedel_id&Housedel_id=105109347798&status=0&source_type=PC列表页房源卡片关注按钮&fb_expo_id=610862042735255565">
+                  <span class="follow-text">关注</span>
+                </div>
+                          </div>
+          </li>
+
+                                      <li class="clear">
+                          <a class="img VIEWDATA CLICKDATA maidian-detail"
+             data-hreftype="0"
+             data-agentid=""
+             data-maidian="610862042735255566"
+             href="https://dg.ke.com/ershoufang/105109322688.html" target="_blank" title="长安花园，高楼层南向两房出售，户型方正，采光好"
+             data-click-evtid="11178" data-click-event="SearchClick"
+             data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105109322688&resblock_id=5411100706840&click_position=14&fb_expo_id=610862042735255566&vr=0&service_commitment=1&e_plan='
+             data-view-evtid="11435" data-view-event="ItemExpo">
+                  <img class="lj-lazy" src="https://s1.ljcdn.com/pegasus/redskull/images/common/blank.gif?_v=2022080818032744"
+               data-original="https://ke-image.ljcdn.com/110000-inspection/pc1_XAtfgNpqi_1.jpg!m_fill,w_280,h_210,f_jpg?from=ke.com"
+               alt="长安花园，高楼层南向两房出售，户型方正，采光好-东莞长安镇长安新区二手房" title="长安花园，高楼层南向两房出售，户型方正，采光好">
+                                <img src="https://s1.ljcdn.com/pegasus/redskull/images/common/vrgold.png?_v=2022080818032744" class="vr_logo">
+                              </a>
+          <div class="info clear">
+            <div class="title">
+                                            <a class="VIEWDATA CLICKDATA maidian-detail" title="长安花园，高楼层南向两房出售，户型方正，采光好"
+                   data-hreftype="0"
+                   data-agentid=""
+                   data-maidian="610862042735255566" href="https://dg.ke.com/ershoufang/105109322688.html" target="_blank"
+                   data-click-evtid="11178" data-click-event="SearchClick"
+                   data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105109322688&resblock_id=5411100706840&click_position=14&fb_query_id=610862042328408064&fb_expo_id=610862042735255566&fb_item_location=14&fb_service_id=1011901001effect&fb_ab_test_flag=&fb_item_id=105109322688&vr=0&service_commitment=1&e_plan='>长安花园，高楼层南向两房出售，户型方正，采光好</a>
+                                        </div>
+            <div class="address">
+              <div class="flood">
+                <div class="positionInfo">
+                  <span class="positionIcon"></span>
+                                      <a href="https://dg.ke.com/xiaoqu/5411100706840/">长安花园</a>
+                                                    </div>
+              </div>
+              <div class="houseInfo">
+                <span class="houseIcon"></span>
+                                  高楼层
+                                    (共18层)
+                                                                  2室2厅 | 77.19平米
+                                  | 南
+                
+              </div>
+              <div class="followInfo">
+                <span class="starIcon"></span>
+                1人关注
+                / 8月前发布               </div>
+              <div class="tag">
+                                                                    <span class="two">满两年</span>
+                                                                      <span class="isVrFutureHome">VR看装修</span>
+                                                </div>
+
+                <div class="priceInfo">
+                  <div class="totalPrice totalPrice2">
+                    <i>参考价:</i>
+                    <span class=""> 234</span>
+                    <i>万</i>
+                  </div>
+                  <div class="unitPrice" data-hid="105109322688" data-price="">
+                    <span>30,308元/平</span>
+                  </div>
+                </div>
+            </div>
+            <div class="listButtonContainer">
+                              <div class="btn-follow followBtn CLICKDATA" data-hid="105109322688" data-click-evtid="11284"
+                     data-click-event="FavoriteClick"
+                     data-action="item_type=housedel_id&Housedel_id=105109322688&status=0&source_type=PC列表页房源卡片关注按钮&fb_expo_id=610862042735255566">
+                  <span class="follow-text">关注</span>
+                </div>
+                          </div>
+          </li>
+
+                                      <li class="clear">
+                          <a class="img VIEWDATA CLICKDATA maidian-detail"
+             data-hreftype="0"
+             data-agentid=""
+             data-maidian="610862042735255567"
+             href="https://dg.ke.com/ershoufang/105109223928.html" target="_blank" title="滨海湾长安花园，满五唯一，免双税，视野开阔，保养好"
+             data-click-evtid="11178" data-click-event="SearchClick"
+             data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105109223928&resblock_id=5411100706840&click_position=15&fb_expo_id=610862042735255567&vr=0&service_commitment=1&e_plan='
+             data-view-evtid="11435" data-view-event="ItemExpo">
+                  <img class="lj-lazy" src="https://s1.ljcdn.com/pegasus/redskull/images/common/blank.gif?_v=2022080818032744"
+               data-original="https://ke-image.ljcdn.com/441900-frame/26b0d614-4f09-4421-bd0f-6e201d16f6fb.png!m_fill,w_280,h_210,f_jpg?from=ke.com"
+               alt="滨海湾长安花园，满五唯一，免双税，视野开阔，保养好-东莞长安镇长安新区二手房" title="滨海湾长安花园，满五唯一，免双税，视野开阔，保养好">
+                                        </a>
+          <div class="info clear">
+            <div class="title">
+                                            <a class="VIEWDATA CLICKDATA maidian-detail" title="滨海湾长安花园，满五唯一，免双税，视野开阔，保养好"
+                   data-hreftype="0"
+                   data-agentid=""
+                   data-maidian="610862042735255567" href="https://dg.ke.com/ershoufang/105109223928.html" target="_blank"
+                   data-click-evtid="11178" data-click-event="SearchClick"
+                   data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105109223928&resblock_id=5411100706840&click_position=15&fb_query_id=610862042328408064&fb_expo_id=610862042735255567&fb_item_location=15&fb_service_id=1011901001effect&fb_ab_test_flag=&fb_item_id=105109223928&vr=0&service_commitment=1&e_plan='>滨海湾长安花园，满五唯一，免双税，视野开阔，保养好</a>
+                                        </div>
+            <div class="address">
+              <div class="flood">
+                <div class="positionInfo">
+                  <span class="positionIcon"></span>
+                                      <a href="https://dg.ke.com/xiaoqu/5411100706840/">长安花园</a>
+                                                    </div>
+              </div>
+              <div class="houseInfo">
+                <span class="houseIcon"></span>
+                                  高楼层
+                                    (共11层)
+                                                                  2室2厅 | 76.05平米
+                                  | 北
+                
+              </div>
+              <div class="followInfo">
+                <span class="starIcon"></span>
+                0人关注
+                / 9月前发布               </div>
+              <div class="tag">
+                                                                    <span class="taxfree">满五年</span>
+                                                </div>
+
+                <div class="priceInfo">
+                  <div class="totalPrice totalPrice2">
+                    <i>参考价:</i>
+                    <span class=""> 231</span>
+                    <i>万</i>
+                  </div>
+                  <div class="unitPrice" data-hid="105109223928" data-price="">
+                    <span>30,308元/平</span>
+                  </div>
+                </div>
+            </div>
+            <div class="listButtonContainer">
+                              <div class="btn-follow followBtn CLICKDATA" data-hid="105109223928" data-click-evtid="11284"
+                     data-click-event="FavoriteClick"
+                     data-action="item_type=housedel_id&Housedel_id=105109223928&status=0&source_type=PC列表页房源卡片关注按钮&fb_expo_id=610862042735255567">
+                  <span class="follow-text">关注</span>
+                </div>
+                          </div>
+          </li>
+
+                                      <li class="clear">
+                          <a class="img VIEWDATA CLICKDATA maidian-detail"
+             data-hreftype="0"
+             data-agentid=""
+             data-maidian="610862042735255568"
+             href="https://dg.ke.com/ershoufang/105109217475.html" target="_blank" title="满五唯一看花园，装修保养好。户型方正"
+             data-click-evtid="11178" data-click-event="SearchClick"
+             data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105109217475&resblock_id=5411100706840&click_position=16&fb_expo_id=610862042735255568&vr=0&service_commitment=1&e_plan='
+             data-view-evtid="11435" data-view-event="ItemExpo">
+                  <img class="lj-lazy" src="https://s1.ljcdn.com/pegasus/redskull/images/common/blank.gif?_v=2022080818032744"
+               data-original="https://ke-image.ljcdn.com/110000-inspection/pc1_Bv6l8X1p8_1.jpg!m_fill,w_280,h_210,f_jpg?from=ke.com"
+               alt="满五唯一看花园，装修保养好。户型方正-东莞长安镇长安新区二手房" title="满五唯一看花园，装修保养好。户型方正">
+                                <img src="https://s1.ljcdn.com/pegasus/redskull/images/common/vrgold.png?_v=2022080818032744" class="vr_logo">
+                              </a>
+          <div class="info clear">
+            <div class="title">
+                                            <a class="VIEWDATA CLICKDATA maidian-detail" title="满五唯一看花园，装修保养好。户型方正"
+                   data-hreftype="0"
+                   data-agentid=""
+                   data-maidian="610862042735255568" href="https://dg.ke.com/ershoufang/105109217475.html" target="_blank"
+                   data-click-evtid="11178" data-click-event="SearchClick"
+                   data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105109217475&resblock_id=5411100706840&click_position=16&fb_query_id=610862042328408064&fb_expo_id=610862042735255568&fb_item_location=16&fb_service_id=1011901001effect&fb_ab_test_flag=&fb_item_id=105109217475&vr=0&service_commitment=1&e_plan='>满五唯一看花园，装修保养好。户型方正</a>
+                                        </div>
+            <div class="address">
+              <div class="flood">
+                <div class="positionInfo">
+                  <span class="positionIcon"></span>
+                                      <a href="https://dg.ke.com/xiaoqu/5411100706840/">长安花园</a>
+                                                    </div>
+              </div>
+              <div class="houseInfo">
+                <span class="houseIcon"></span>
+                                  低楼层
+                                    (共13层)
+                                                                  2室2厅 | 78.3平米
+                                  | 北
+                
+              </div>
+              <div class="followInfo">
+                <span class="starIcon"></span>
+                0人关注
+                / 9月前发布               </div>
+              <div class="tag">
+                                                                    <span class="taxfree">满五年</span>
+                                                                      <span class="isVrFutureHome">VR看装修</span>
+                                                                      <span class="is_key">随时看房</span>
+                                                </div>
+
+                <div class="priceInfo">
+                  <div class="totalPrice totalPrice2">
+                    <i>参考价:</i>
+                    <span class=""> 238</span>
+                    <i>万</i>
+                  </div>
+                  <div class="unitPrice" data-hid="105109217475" data-price="">
+                    <span>30,308元/平</span>
+                  </div>
+                </div>
+            </div>
+            <div class="listButtonContainer">
+                              <div class="btn-follow followBtn CLICKDATA" data-hid="105109217475" data-click-evtid="11284"
+                     data-click-event="FavoriteClick"
+                     data-action="item_type=housedel_id&Housedel_id=105109217475&status=0&source_type=PC列表页房源卡片关注按钮&fb_expo_id=610862042735255568">
+                  <span class="follow-text">关注</span>
+                </div>
+                          </div>
+          </li>
+
+                                      <li class="clear">
+                          <a class="img VIEWDATA CLICKDATA maidian-detail"
+             data-hreftype="0"
+             data-agentid=""
+             data-maidian="610862042735255569"
+             href="https://dg.ke.com/ershoufang/105109067052.html" target="_blank" title="滨海湾长安花园两房，满五年朝南，视野开阔光线好"
+             data-click-evtid="11178" data-click-event="SearchClick"
+             data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105109067052&resblock_id=5411100706840&click_position=17&fb_expo_id=610862042735255569&vr=0&service_commitment=1&e_plan='
+             data-view-evtid="11435" data-view-event="ItemExpo">
+                  <img class="lj-lazy" src="https://s1.ljcdn.com/pegasus/redskull/images/common/blank.gif?_v=2022080818032744"
+               data-original="https://ke-image.ljcdn.com/110000-inspection/pc1_acHawO47F_1.jpg!m_fill,w_280,h_210,f_jpg?from=ke.com"
+               alt="滨海湾长安花园两房，满五年朝南，视野开阔光线好-东莞长安镇长安新区二手房" title="滨海湾长安花园两房，满五年朝南，视野开阔光线好">
+                                <img src="https://s1.ljcdn.com/pegasus/redskull/images/common/vrgold.png?_v=2022080818032744" class="vr_logo">
+                              </a>
+          <div class="info clear">
+            <div class="title">
+                                            <a class="VIEWDATA CLICKDATA maidian-detail" title="滨海湾长安花园两房，满五年朝南，视野开阔光线好"
+                   data-hreftype="0"
+                   data-agentid=""
+                   data-maidian="610862042735255569" href="https://dg.ke.com/ershoufang/105109067052.html" target="_blank"
+                   data-click-evtid="11178" data-click-event="SearchClick"
+                   data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105109067052&resblock_id=5411100706840&click_position=17&fb_query_id=610862042328408064&fb_expo_id=610862042735255569&fb_item_location=17&fb_service_id=1011901001effect&fb_ab_test_flag=&fb_item_id=105109067052&vr=0&service_commitment=1&e_plan='>滨海湾长安花园两房，满五年朝南，视野开阔光线好</a>
+                                        </div>
+            <div class="address">
+              <div class="flood">
+                <div class="positionInfo">
+                  <span class="positionIcon"></span>
+                                      <a href="https://dg.ke.com/xiaoqu/5411100706840/">长安花园</a>
+                                                    </div>
+              </div>
+              <div class="houseInfo">
+                <span class="houseIcon"></span>
+                                  中楼层
+                                    (共11层)
+                                                                  2室2厅 | 78.26平米
+                                  | 南
+                
+              </div>
+              <div class="followInfo">
+                <span class="starIcon"></span>
+                1人关注
+                / 9月前发布               </div>
+              <div class="tag">
+                                                                    <span class="taxfree">满五年</span>
+                                                                      <span class="isVrFutureHome">VR看装修</span>
+                                                </div>
+
+                <div class="priceInfo">
+                  <div class="totalPrice totalPrice2">
+                    <i>参考价:</i>
+                    <span class=""> 238</span>
+                    <i>万</i>
+                  </div>
+                  <div class="unitPrice" data-hid="105109067052" data-price="">
+                    <span>30,308元/平</span>
+                  </div>
+                </div>
+            </div>
+            <div class="listButtonContainer">
+                              <div class="btn-follow followBtn CLICKDATA" data-hid="105109067052" data-click-evtid="11284"
+                     data-click-event="FavoriteClick"
+                     data-action="item_type=housedel_id&Housedel_id=105109067052&status=0&source_type=PC列表页房源卡片关注按钮&fb_expo_id=610862042735255569">
+                  <span class="follow-text">关注</span>
+                </div>
+                          </div>
+          </li>
+
+                                      <li class="clear">
+                          <a class="img VIEWDATA CLICKDATA maidian-detail"
+             data-hreftype="0"
+             data-agentid=""
+             data-maidian="610862042735255570"
+             href="https://dg.ke.com/ershoufang/105108967592.html" target="_blank" title="：此户型方正，精装修拎包入住，业主诚心出售"
+             data-click-evtid="11178" data-click-event="SearchClick"
+             data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105108967592&resblock_id=5411100706840&click_position=18&fb_expo_id=610862042735255570&vr=0&service_commitment=1&e_plan='
+             data-view-evtid="11435" data-view-event="ItemExpo">
+                  <img class="lj-lazy" src="https://s1.ljcdn.com/pegasus/redskull/images/common/blank.gif?_v=2022080818032744"
+               data-original="https://ke-image.ljcdn.com/hdic-frame/mmexport1617262710839___98aa0a09c77af3b5ed3def3ecb04c9be.jpg!m_fill,w_280,h_210,f_jpg?from=ke.com"
+               alt="：此户型方正，精装修拎包入住，业主诚心出售-东莞长安镇长安新区二手房" title="：此户型方正，精装修拎包入住，业主诚心出售">
+                                        </a>
+          <div class="info clear">
+            <div class="title">
+                                            <a class="VIEWDATA CLICKDATA maidian-detail" title="：此户型方正，精装修拎包入住，业主诚心出售"
+                   data-hreftype="0"
+                   data-agentid=""
+                   data-maidian="610862042735255570" href="https://dg.ke.com/ershoufang/105108967592.html" target="_blank"
+                   data-click-evtid="11178" data-click-event="SearchClick"
+                   data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105108967592&resblock_id=5411100706840&click_position=18&fb_query_id=610862042328408064&fb_expo_id=610862042735255570&fb_item_location=18&fb_service_id=1011901001effect&fb_ab_test_flag=&fb_item_id=105108967592&vr=0&service_commitment=1&e_plan='>：此户型方正，精装修拎包入住，业主诚心出售</a>
+                                        </div>
+            <div class="address">
+              <div class="flood">
+                <div class="positionInfo">
+                  <span class="positionIcon"></span>
+                                      <a href="https://dg.ke.com/xiaoqu/5411100706840/">长安花园</a>
+                                                    </div>
+              </div>
+              <div class="houseInfo">
+                <span class="houseIcon"></span>
+                                  中楼层
+                                    (共18层)
+                                                                  3室2厅 | 96平米
+                                  | 南
+                
+              </div>
+              <div class="followInfo">
+                <span class="starIcon"></span>
+                2人关注
+                / 10月前发布               </div>
+              <div class="tag">
+                                                                    <span class="is_key">随时看房</span>
+                                                </div>
+
+                <div class="priceInfo">
+                  <div class="totalPrice totalPrice2">
+                    <i>参考价:</i>
+                    <span class=""> 291</span>
+                    <i>万</i>
+                  </div>
+                  <div class="unitPrice" data-hid="105108967592" data-price="">
+                    <span>30,308元/平</span>
+                  </div>
+                </div>
+            </div>
+            <div class="listButtonContainer">
+                              <div class="btn-follow followBtn CLICKDATA" data-hid="105108967592" data-click-evtid="11284"
+                     data-click-event="FavoriteClick"
+                     data-action="item_type=housedel_id&Housedel_id=105108967592&status=0&source_type=PC列表页房源卡片关注按钮&fb_expo_id=610862042735255570">
+                  <span class="follow-text">关注</span>
+                </div>
+                          </div>
+          </li>
+
+                                      <li class="clear">
+                          <a class="img VIEWDATA CLICKDATA maidian-detail"
+             data-hreftype="0"
+             data-agentid=""
+             data-maidian="610862042735255571"
+             href="https://dg.ke.com/ershoufang/105108932708.html" target="_blank" title="临深滨海湾长安花园大三房，小区中间位置看花园安静"
+             data-click-evtid="11178" data-click-event="SearchClick"
+             data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105108932708&resblock_id=5411100706840&click_position=19&fb_expo_id=610862042735255571&vr=1&service_commitment=1&e_plan='
+             data-view-evtid="11435" data-view-event="ItemExpo">
+                  <img class="lj-lazy" src="https://s1.ljcdn.com/pegasus/redskull/images/common/blank.gif?_v=2022080818032744"
+               data-original="https://ke-image.ljcdn.com/110000-inspection/pc1_tcDX94468_1.jpg!m_fill,w_280,h_210,f_jpg?from=ke.com"
+               alt="临深滨海湾长安花园大三房，小区中间位置看花园安静-东莞长安镇长安新区二手房" title="临深滨海湾长安花园大三房，小区中间位置看花园安静">
+                      <img src="https://s1.ljcdn.com/pegasus/redskull/images/common/vrlogo@2x.png?_v=2022080818032744" class="vr_logo">
+                                        </a>
+          <div class="info clear">
+            <div class="title">
+                                            <a class="VIEWDATA CLICKDATA maidian-detail" title="临深滨海湾长安花园大三房，小区中间位置看花园安静"
+                   data-hreftype="0"
+                   data-agentid=""
+                   data-maidian="610862042735255571" href="https://dg.ke.com/ershoufang/105108932708.html" target="_blank"
+                   data-click-evtid="11178" data-click-event="SearchClick"
+                   data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105108932708&resblock_id=5411100706840&click_position=19&fb_query_id=610862042328408064&fb_expo_id=610862042735255571&fb_item_location=19&fb_service_id=1011901001effect&fb_ab_test_flag=&fb_item_id=105108932708&vr=1&service_commitment=1&e_plan='>临深滨海湾长安花园大三房，小区中间位置看花园安静</a>
+                                        </div>
+            <div class="address">
+              <div class="flood">
+                <div class="positionInfo">
+                  <span class="positionIcon"></span>
+                                      <a href="https://dg.ke.com/xiaoqu/5411100706840/">长安花园</a>
+                                                    </div>
+              </div>
+              <div class="houseInfo">
+                <span class="houseIcon"></span>
+                                  低楼层
+                                    (共18层)
+                                                                  3室2厅 | 129.71平米
+                                  | 东南
+                
+              </div>
+              <div class="followInfo">
+                <span class="starIcon"></span>
+                3人关注
+                / 10月前发布               </div>
+              <div class="tag">
+                                                                    <span class="taxfree">满五年</span>
+                                                                      <span class="isVrFutureHome">VR房源</span>
+                                                </div>
+
+                <div class="priceInfo">
+                  <div class="totalPrice totalPrice2">
+                    <i>参考价:</i>
+                    <span class=""> 394</span>
+                    <i>万</i>
+                  </div>
+                  <div class="unitPrice" data-hid="105108932708" data-price="">
+                    <span>30,308元/平</span>
+                  </div>
+                </div>
+            </div>
+            <div class="listButtonContainer">
+                              <div class="btn-follow followBtn CLICKDATA" data-hid="105108932708" data-click-evtid="11284"
+                     data-click-event="FavoriteClick"
+                     data-action="item_type=housedel_id&Housedel_id=105108932708&status=0&source_type=PC列表页房源卡片关注按钮&fb_expo_id=610862042735255571">
+                  <span class="follow-text">关注</span>
+                </div>
+                          </div>
+          </li>
+
+                                      <li class="clear">
+                          <a class="img VIEWDATA CLICKDATA maidian-detail"
+             data-hreftype="0"
+             data-agentid=""
+             data-maidian="610862042735255572"
+             href="https://dg.ke.com/ershoufang/105108722420.html" target="_blank" title="临深滨海湾长安花园，精装三房满五唯一，免双税"
+             data-click-evtid="11178" data-click-event="SearchClick"
+             data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105108722420&resblock_id=5411100706840&click_position=20&fb_expo_id=610862042735255572&vr=0&service_commitment=1&e_plan='
+             data-view-evtid="11435" data-view-event="ItemExpo">
+                  <img class="lj-lazy" src="https://s1.ljcdn.com/pegasus/redskull/images/common/blank.gif?_v=2022080818032744"
+               data-original="https://ke-image.ljcdn.com/110000-inspection/pc1_aU8hO9Fl2_1.jpg!m_fill,w_280,h_210,f_jpg?from=ke.com"
+               alt="临深滨海湾长安花园，精装三房满五唯一，免双税-东莞长安镇长安新区二手房" title="临深滨海湾长安花园，精装三房满五唯一，免双税">
+                                <img src="https://s1.ljcdn.com/pegasus/redskull/images/common/vrgold.png?_v=2022080818032744" class="vr_logo">
+                              </a>
+          <div class="info clear">
+            <div class="title">
+                                            <a class="VIEWDATA CLICKDATA maidian-detail" title="临深滨海湾长安花园，精装三房满五唯一，免双税"
+                   data-hreftype="0"
+                   data-agentid=""
+                   data-maidian="610862042735255572" href="https://dg.ke.com/ershoufang/105108722420.html" target="_blank"
+                   data-click-evtid="11178" data-click-event="SearchClick"
+                   data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105108722420&resblock_id=5411100706840&click_position=20&fb_query_id=610862042328408064&fb_expo_id=610862042735255572&fb_item_location=20&fb_service_id=1011901001effect&fb_ab_test_flag=&fb_item_id=105108722420&vr=0&service_commitment=1&e_plan='>临深滨海湾长安花园，精装三房满五唯一，免双税</a>
+                                        </div>
+            <div class="address">
+              <div class="flood">
+                <div class="positionInfo">
+                  <span class="positionIcon"></span>
+                                      <a href="https://dg.ke.com/xiaoqu/5411100706840/">长安花园</a>
+                                                    </div>
+              </div>
+              <div class="houseInfo">
+                <span class="houseIcon"></span>
+                                  中楼层
+                                    (共18层)
+                                                                  3室2厅 | 111.65平米
+                                  | 南
+                
+              </div>
+              <div class="followInfo">
+                <span class="starIcon"></span>
+                5人关注
+                / 11月前发布               </div>
+              <div class="tag">
+                                                                    <span class="isVrFutureHome">VR看装修</span>
+                                                </div>
+
+                <div class="priceInfo">
+                  <div class="totalPrice totalPrice2">
+                    <i>参考价:</i>
+                    <span class=""> 339</span>
+                    <i>万</i>
+                  </div>
+                  <div class="unitPrice" data-hid="105108722420" data-price="">
+                    <span>30,308元/平</span>
+                  </div>
+                </div>
+            </div>
+            <div class="listButtonContainer">
+                              <div class="btn-follow followBtn CLICKDATA" data-hid="105108722420" data-click-evtid="11284"
+                     data-click-event="FavoriteClick"
+                     data-action="item_type=housedel_id&Housedel_id=105108722420&status=0&source_type=PC列表页房源卡片关注按钮&fb_expo_id=610862042735255572">
+                  <span class="follow-text">关注</span>
+                </div>
+                          </div>
+          </li>
+
+                                      <li class="clear">
+                          <a class="img VIEWDATA CLICKDATA maidian-detail"
+             data-hreftype="0"
+             data-agentid=""
+             data-maidian="610862042735255573"
+             href="https://dg.ke.com/ershoufang/105108651139.html" target="_blank" title="此房满五唯一，户型方正，朝南，看花园居住舒适。"
+             data-click-evtid="11178" data-click-event="SearchClick"
+             data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105108651139&resblock_id=5411100706840&click_position=21&fb_expo_id=610862042735255573&vr=0&service_commitment=1&e_plan='
+             data-view-evtid="11435" data-view-event="ItemExpo">
+                  <img class="lj-lazy" src="https://s1.ljcdn.com/pegasus/redskull/images/common/blank.gif?_v=2022080818032744"
+               data-original="https://ke-image.ljcdn.com/110000-inspection/pc1_KdfZqWopu_1.jpg!m_fill,w_280,h_210,f_jpg?from=ke.com"
+               alt="此房满五唯一，户型方正，朝南，看花园居住舒适。-东莞长安镇长安新区二手房" title="此房满五唯一，户型方正，朝南，看花园居住舒适。">
+                                <img src="https://s1.ljcdn.com/pegasus/redskull/images/common/vrgold.png?_v=2022080818032744" class="vr_logo">
+                              </a>
+          <div class="info clear">
+            <div class="title">
+                                            <a class="VIEWDATA CLICKDATA maidian-detail" title="此房满五唯一，户型方正，朝南，看花园居住舒适。"
+                   data-hreftype="0"
+                   data-agentid=""
+                   data-maidian="610862042735255573" href="https://dg.ke.com/ershoufang/105108651139.html" target="_blank"
+                   data-click-evtid="11178" data-click-event="SearchClick"
+                   data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105108651139&resblock_id=5411100706840&click_position=21&fb_query_id=610862042328408064&fb_expo_id=610862042735255573&fb_item_location=21&fb_service_id=1011901001effect&fb_ab_test_flag=&fb_item_id=105108651139&vr=0&service_commitment=1&e_plan='>此房满五唯一，户型方正，朝南，看花园居住舒适。</a>
+                                        </div>
+            <div class="address">
+              <div class="flood">
+                <div class="positionInfo">
+                  <span class="positionIcon"></span>
+                                      <a href="https://dg.ke.com/xiaoqu/5411100706840/">长安花园</a>
+                                                    </div>
+              </div>
+              <div class="houseInfo">
+                <span class="houseIcon"></span>
+                                  低楼层
+                                    (共18层)
+                                                                  3室2厅 | 96.11平米
+                                  | 南
+                
+              </div>
+              <div class="followInfo">
+                <span class="starIcon"></span>
+                3人关注
+                / 11月前发布               </div>
+              <div class="tag">
+                                                                    <span class="taxfree">满五年</span>
+                                                                      <span class="isVrFutureHome">VR看装修</span>
+                                                </div>
+
+                <div class="priceInfo">
+                  <div class="totalPrice totalPrice2">
+                    <i>参考价:</i>
+                    <span class=""> 292</span>
+                    <i>万</i>
+                  </div>
+                  <div class="unitPrice" data-hid="105108651139" data-price="">
+                    <span>30,308元/平</span>
+                  </div>
+                </div>
+            </div>
+            <div class="listButtonContainer">
+                              <div class="btn-follow followBtn CLICKDATA" data-hid="105108651139" data-click-evtid="11284"
+                     data-click-event="FavoriteClick"
+                     data-action="item_type=housedel_id&Housedel_id=105108651139&status=0&source_type=PC列表页房源卡片关注按钮&fb_expo_id=610862042735255573">
+                  <span class="follow-text">关注</span>
+                </div>
+                          </div>
+          </li>
+
+                                      <li class="clear">
+                          <a class="img VIEWDATA CLICKDATA maidian-detail"
+             data-hreftype="0"
+             data-agentid=""
+             data-maidian="610862042735255574"
+             href="https://dg.ke.com/ershoufang/105108649092.html" target="_blank" title="长安花园 2室2厅 南"
+             data-click-evtid="11178" data-click-event="SearchClick"
+             data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105108649092&resblock_id=5411100706840&click_position=22&fb_expo_id=610862042735255574&vr=0&service_commitment=1&e_plan='
+             data-view-evtid="11435" data-view-event="ItemExpo">
+                  <img class="lj-lazy" src="https://s1.ljcdn.com/pegasus/redskull/images/common/blank.gif?_v=2022080818032744"
+               data-original="https://ke-image.ljcdn.com/110000-inspection/pc1_ZIOYNlg4h_1.jpg!m_fill,w_280,h_210,f_jpg?from=ke.com"
+               alt="长安花园 2室2厅 南-东莞长安镇长安新区二手房" title="长安花园 2室2厅 南">
+                                <img src="https://s1.ljcdn.com/pegasus/redskull/images/common/vrgold.png?_v=2022080818032744" class="vr_logo">
+                              </a>
+          <div class="info clear">
+            <div class="title">
+                                            <a class="VIEWDATA CLICKDATA maidian-detail" title="长安花园 2室2厅 南"
+                   data-hreftype="0"
+                   data-agentid=""
+                   data-maidian="610862042735255574" href="https://dg.ke.com/ershoufang/105108649092.html" target="_blank"
+                   data-click-evtid="11178" data-click-event="SearchClick"
+                   data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105108649092&resblock_id=5411100706840&click_position=22&fb_query_id=610862042328408064&fb_expo_id=610862042735255574&fb_item_location=22&fb_service_id=1011901001effect&fb_ab_test_flag=&fb_item_id=105108649092&vr=0&service_commitment=1&e_plan='>长安花园 2室2厅 南</a>
+                                        </div>
+            <div class="address">
+              <div class="flood">
+                <div class="positionInfo">
+                  <span class="positionIcon"></span>
+                                      <a href="https://dg.ke.com/xiaoqu/5411100706840/">长安花园</a>
+                                                    </div>
+              </div>
+              <div class="houseInfo">
+                <span class="houseIcon"></span>
+                                  低楼层
+                                    (共18层)
+                                                                  2室2厅 | 80.72平米
+                                  | 南
+                
+              </div>
+              <div class="followInfo">
+                <span class="starIcon"></span>
+                5人关注
+                / 11月前发布               </div>
+              <div class="tag">
+                                                                    <span class="taxfree">满五年</span>
+                                                                      <span class="isVrFutureHome">VR看装修</span>
+                                                                      <span class="is_key">随时看房</span>
+                                                </div>
+
+                <div class="priceInfo">
+                  <div class="totalPrice totalPrice2">
+                    <i>参考价:</i>
+                    <span class=""> 245</span>
+                    <i>万</i>
+                  </div>
+                  <div class="unitPrice" data-hid="105108649092" data-price="">
+                    <span>30,308元/平</span>
+                  </div>
+                </div>
+            </div>
+            <div class="listButtonContainer">
+                              <div class="btn-follow followBtn CLICKDATA" data-hid="105108649092" data-click-evtid="11284"
+                     data-click-event="FavoriteClick"
+                     data-action="item_type=housedel_id&Housedel_id=105108649092&status=0&source_type=PC列表页房源卡片关注按钮&fb_expo_id=610862042735255574">
+                  <span class="follow-text">关注</span>
+                </div>
+                          </div>
+          </li>
+
+                                      <li class="clear">
+                          <a class="img VIEWDATA CLICKDATA maidian-detail"
+             data-hreftype="0"
+             data-agentid=""
+             data-maidian="610862042735255575"
+             href="https://dg.ke.com/ershoufang/105108643644.html" target="_blank" title="长安花园后期朝南高楼层两房业主诚心出售。"
+             data-click-evtid="11178" data-click-event="SearchClick"
+             data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105108643644&resblock_id=5411100706840&click_position=23&fb_expo_id=610862042735255575&vr=0&service_commitment=1&e_plan='
+             data-view-evtid="11435" data-view-event="ItemExpo">
+                  <img class="lj-lazy" src="https://s1.ljcdn.com/pegasus/redskull/images/common/blank.gif?_v=2022080818032744"
+               data-original="https://s1.ljcdn.com/pegasus/redskull/images/common/default_house_list.png?_v=2022080818032744"
+               alt="长安花园后期朝南高楼层两房业主诚心出售。-东莞长安镇长安新区二手房" title="长安花园后期朝南高楼层两房业主诚心出售。">
+                                        </a>
+          <div class="info clear">
+            <div class="title">
+                                            <a class="VIEWDATA CLICKDATA maidian-detail" title="长安花园后期朝南高楼层两房业主诚心出售。"
+                   data-hreftype="0"
+                   data-agentid=""
+                   data-maidian="610862042735255575" href="https://dg.ke.com/ershoufang/105108643644.html" target="_blank"
+                   data-click-evtid="11178" data-click-event="SearchClick"
+                   data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105108643644&resblock_id=5411100706840&click_position=23&fb_query_id=610862042328408064&fb_expo_id=610862042735255575&fb_item_location=23&fb_service_id=1011901001effect&fb_ab_test_flag=&fb_item_id=105108643644&vr=0&service_commitment=1&e_plan='>长安花园后期朝南高楼层两房业主诚心出售。</a>
+                                        </div>
+            <div class="address">
+              <div class="flood">
+                <div class="positionInfo">
+                  <span class="positionIcon"></span>
+                                      <a href="https://dg.ke.com/xiaoqu/5411100706840/">长安花园</a>
+                                                    </div>
+              </div>
+              <div class="houseInfo">
+                <span class="houseIcon"></span>
+                                  高楼层
+                                    (共18层)
+                                                                  2室2厅 | 78平米
+                                  | 南
+                
+              </div>
+              <div class="followInfo">
+                <span class="starIcon"></span>
+                0人关注
+                / 11月前发布               </div>
+              <div class="tag">
+                                                                    <span class="taxfree">满五年</span>
+                                                </div>
+
+                <div class="priceInfo">
+                  <div class="totalPrice totalPrice2">
+                    <i>参考价:</i>
+                    <span class=""> 237</span>
+                    <i>万</i>
+                  </div>
+                  <div class="unitPrice" data-hid="105108643644" data-price="">
+                    <span>30,308元/平</span>
+                  </div>
+                </div>
+            </div>
+            <div class="listButtonContainer">
+                              <div class="btn-follow followBtn CLICKDATA" data-hid="105108643644" data-click-evtid="11284"
+                     data-click-event="FavoriteClick"
+                     data-action="item_type=housedel_id&Housedel_id=105108643644&status=0&source_type=PC列表页房源卡片关注按钮&fb_expo_id=610862042735255575">
+                  <span class="follow-text">关注</span>
+                </div>
+                          </div>
+          </li>
+
+                                      <li class="clear">
+                          <a class="img VIEWDATA CLICKDATA maidian-detail"
+             data-hreftype="0"
+             data-agentid=""
+             data-maidian="610862042735255576"
+             href="https://dg.ke.com/ershoufang/105108536717.html" target="_blank" title="长安花园两房，满五唯一免双税，安静看花园"
+             data-click-evtid="11178" data-click-event="SearchClick"
+             data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105108536717&resblock_id=5411100706840&click_position=24&fb_expo_id=610862042735255576&vr=0&service_commitment=1&e_plan='
+             data-view-evtid="11435" data-view-event="ItemExpo">
+                  <img class="lj-lazy" src="https://s1.ljcdn.com/pegasus/redskull/images/common/blank.gif?_v=2022080818032744"
+               data-original="https://ke-image.ljcdn.com/110000-inspection/pc1_qggR04tYz_1.jpg!m_fill,w_280,h_210,f_jpg?from=ke.com"
+               alt="长安花园两房，满五唯一免双税，安静看花园-东莞长安镇长安新区二手房" title="长安花园两房，满五唯一免双税，安静看花园">
+                                <img src="https://s1.ljcdn.com/pegasus/redskull/images/common/vrgold.png?_v=2022080818032744" class="vr_logo">
+                              </a>
+          <div class="info clear">
+            <div class="title">
+                                            <a class="VIEWDATA CLICKDATA maidian-detail" title="长安花园两房，满五唯一免双税，安静看花园"
+                   data-hreftype="0"
+                   data-agentid=""
+                   data-maidian="610862042735255576" href="https://dg.ke.com/ershoufang/105108536717.html" target="_blank"
+                   data-click-evtid="11178" data-click-event="SearchClick"
+                   data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105108536717&resblock_id=5411100706840&click_position=24&fb_query_id=610862042328408064&fb_expo_id=610862042735255576&fb_item_location=24&fb_service_id=1011901001effect&fb_ab_test_flag=&fb_item_id=105108536717&vr=0&service_commitment=1&e_plan='>长安花园两房，满五唯一免双税，安静看花园</a>
+                                        </div>
+            <div class="address">
+              <div class="flood">
+                <div class="positionInfo">
+                  <span class="positionIcon"></span>
+                                      <a href="https://dg.ke.com/xiaoqu/5411100706840/">长安花园</a>
+                                                    </div>
+              </div>
+              <div class="houseInfo">
+                <span class="houseIcon"></span>
+                                  中楼层
+                                    (共18层)
+                                                                  2室1厅 | 77.37平米
+                                  | 北
+                
+              </div>
+              <div class="followInfo">
+                <span class="starIcon"></span>
+                1人关注
+                / 11月前发布               </div>
+              <div class="tag">
+                                                                    <span class="taxfree">满五年</span>
+                                                                      <span class="isVrFutureHome">VR看装修</span>
+                                                </div>
+
+                <div class="priceInfo">
+                  <div class="totalPrice totalPrice2">
+                    <i>参考价:</i>
+                    <span class=""> 235</span>
+                    <i>万</i>
+                  </div>
+                  <div class="unitPrice" data-hid="105108536717" data-price="">
+                    <span>30,308元/平</span>
+                  </div>
+                </div>
+            </div>
+            <div class="listButtonContainer">
+                              <div class="btn-follow followBtn CLICKDATA" data-hid="105108536717" data-click-evtid="11284"
+                     data-click-event="FavoriteClick"
+                     data-action="item_type=housedel_id&Housedel_id=105108536717&status=0&source_type=PC列表页房源卡片关注按钮&fb_expo_id=610862042735255576">
+                  <span class="follow-text">关注</span>
+                </div>
+                          </div>
+          </li>
+
+                                      <li class="clear">
+                          <a class="img VIEWDATA CLICKDATA maidian-detail"
+             data-hreftype="0"
+             data-agentid=""
+             data-maidian="610862042735255577"
+             href="https://dg.ke.com/ershoufang/105108510511.html" target="_blank" title="滨海湾长安花园，精装三房，满五，高层采光好，看花园"
+             data-click-evtid="11178" data-click-event="SearchClick"
+             data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105108510511&resblock_id=5411100706840&click_position=25&fb_expo_id=610862042735255577&vr=0&service_commitment=1&e_plan='
+             data-view-evtid="11435" data-view-event="ItemExpo">
+                  <img class="lj-lazy" src="https://s1.ljcdn.com/pegasus/redskull/images/common/blank.gif?_v=2022080818032744"
+               data-original="https://ke-image.ljcdn.com/110000-inspection/pc1_zLmzcSDt7_1.jpg!m_fill,w_280,h_210,f_jpg?from=ke.com"
+               alt="滨海湾长安花园，精装三房，满五，高层采光好，看花园-东莞长安镇长安新区二手房" title="滨海湾长安花园，精装三房，满五，高层采光好，看花园">
+                                <img src="https://s1.ljcdn.com/pegasus/redskull/images/common/vrgold.png?_v=2022080818032744" class="vr_logo">
+                              </a>
+          <div class="info clear">
+            <div class="title">
+                                            <a class="VIEWDATA CLICKDATA maidian-detail" title="滨海湾长安花园，精装三房，满五，高层采光好，看花园"
+                   data-hreftype="0"
+                   data-agentid=""
+                   data-maidian="610862042735255577" href="https://dg.ke.com/ershoufang/105108510511.html" target="_blank"
+                   data-click-evtid="11178" data-click-event="SearchClick"
+                   data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105108510511&resblock_id=5411100706840&click_position=25&fb_query_id=610862042328408064&fb_expo_id=610862042735255577&fb_item_location=25&fb_service_id=1011901001effect&fb_ab_test_flag=&fb_item_id=105108510511&vr=0&service_commitment=1&e_plan='>滨海湾长安花园，精装三房，满五，高层采光好，看花园</a>
+                                        </div>
+            <div class="address">
+              <div class="flood">
+                <div class="positionInfo">
+                  <span class="positionIcon"></span>
+                                      <a href="https://dg.ke.com/xiaoqu/5411100706840/">长安花园</a>
+                                                    </div>
+              </div>
+              <div class="houseInfo">
+                <span class="houseIcon"></span>
+                                  中楼层
+                                    (共18层)
+                                                                  3室2厅 | 92.16平米
+                                  | 北
+                
+              </div>
+              <div class="followInfo">
+                <span class="starIcon"></span>
+                1人关注
+                / 11月前发布               </div>
+              <div class="tag">
+                                                                    <span class="taxfree">满五年</span>
+                                                                      <span class="isVrFutureHome">VR看装修</span>
+                                                </div>
+
+                <div class="priceInfo">
+                  <div class="totalPrice totalPrice2">
+                    <i>参考价:</i>
+                    <span class=""> 280</span>
+                    <i>万</i>
+                  </div>
+                  <div class="unitPrice" data-hid="105108510511" data-price="">
+                    <span>30,308元/平</span>
+                  </div>
+                </div>
+            </div>
+            <div class="listButtonContainer">
+                              <div class="btn-follow followBtn CLICKDATA" data-hid="105108510511" data-click-evtid="11284"
+                     data-click-event="FavoriteClick"
+                     data-action="item_type=housedel_id&Housedel_id=105108510511&status=0&source_type=PC列表页房源卡片关注按钮&fb_expo_id=610862042735255577">
+                  <span class="follow-text">关注</span>
+                </div>
+                          </div>
+          </li>
+
+                                      <li class="clear">
+                          <a class="img VIEWDATA CLICKDATA maidian-detail"
+             data-hreftype="0"
+             data-agentid=""
+             data-maidian="610862042735255578"
+             href="https://dg.ke.com/ershoufang/105108322316.html" target="_blank" title="滨海湾高楼层，满五唯一免双税，急卖"
+             data-click-evtid="11178" data-click-event="SearchClick"
+             data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105108322316&resblock_id=5411100706840&click_position=26&fb_expo_id=610862042735255578&vr=0&service_commitment=1&e_plan='
+             data-view-evtid="11435" data-view-event="ItemExpo">
+                  <img class="lj-lazy" src="https://s1.ljcdn.com/pegasus/redskull/images/common/blank.gif?_v=2022080818032744"
+               data-original="https://ke-image.ljcdn.com/110000-inspection/pc1_fBRr1kOjm_1.jpg!m_fill,w_280,h_210,f_jpg?from=ke.com"
+               alt="滨海湾高楼层，满五唯一免双税，急卖-东莞长安镇长安新区二手房" title="滨海湾高楼层，满五唯一免双税，急卖">
+                                <img src="https://s1.ljcdn.com/pegasus/redskull/images/common/vrgold.png?_v=2022080818032744" class="vr_logo">
+                              </a>
+          <div class="info clear">
+            <div class="title">
+                                            <a class="VIEWDATA CLICKDATA maidian-detail" title="滨海湾高楼层，满五唯一免双税，急卖"
+                   data-hreftype="0"
+                   data-agentid=""
+                   data-maidian="610862042735255578" href="https://dg.ke.com/ershoufang/105108322316.html" target="_blank"
+                   data-click-evtid="11178" data-click-event="SearchClick"
+                   data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105108322316&resblock_id=5411100706840&click_position=26&fb_query_id=610862042328408064&fb_expo_id=610862042735255578&fb_item_location=26&fb_service_id=1011901001effect&fb_ab_test_flag=&fb_item_id=105108322316&vr=0&service_commitment=1&e_plan='>滨海湾高楼层，满五唯一免双税，急卖</a>
+                                        </div>
+            <div class="address">
+              <div class="flood">
+                <div class="positionInfo">
+                  <span class="positionIcon"></span>
+                                      <a href="https://dg.ke.com/xiaoqu/5411100706840/">长安花园</a>
+                                                    </div>
+              </div>
+              <div class="houseInfo">
+                <span class="houseIcon"></span>
+                                  高楼层
+                                    (共15层)
+                                                                  3室2厅 | 92.65平米
+                                  | 北
+                
+              </div>
+              <div class="followInfo">
+                <span class="starIcon"></span>
+                0人关注
+                / 1年前发布               </div>
+              <div class="tag">
+                                                                    <span class="isVrFutureHome">VR看装修</span>
+                                                </div>
+
+                <div class="priceInfo">
+                  <div class="totalPrice totalPrice2">
+                    <i>参考价:</i>
+                    <span class=""> 281</span>
+                    <i>万</i>
+                  </div>
+                  <div class="unitPrice" data-hid="105108322316" data-price="">
+                    <span>30,308元/平</span>
+                  </div>
+                </div>
+            </div>
+            <div class="listButtonContainer">
+                              <div class="btn-follow followBtn CLICKDATA" data-hid="105108322316" data-click-evtid="11284"
+                     data-click-event="FavoriteClick"
+                     data-action="item_type=housedel_id&Housedel_id=105108322316&status=0&source_type=PC列表页房源卡片关注按钮&fb_expo_id=610862042735255578">
+                  <span class="follow-text">关注</span>
+                </div>
+                          </div>
+          </li>
+
+                                      <li class="clear">
+                          <a class="img VIEWDATA CLICKDATA maidian-detail"
+             data-hreftype="0"
+             data-agentid=""
+             data-maidian="610862042735255579"
+             href="https://dg.ke.com/ershoufang/105108318895.html" target="_blank" title="长安花园 2室2厅 南"
+             data-click-evtid="11178" data-click-event="SearchClick"
+             data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105108318895&resblock_id=5411100706840&click_position=27&fb_expo_id=610862042735255579&vr=0&service_commitment=1&e_plan='
+             data-view-evtid="11435" data-view-event="ItemExpo">
+                  <img class="lj-lazy" src="https://s1.ljcdn.com/pegasus/redskull/images/common/blank.gif?_v=2022080818032744"
+               data-original="https://ke-image.ljcdn.com/110000-inspection/pc1_q9DtewXoI_1.jpg!m_fill,w_280,h_210,f_jpg?from=ke.com"
+               alt="长安花园 2室2厅 南-东莞长安镇长安新区二手房" title="长安花园 2室2厅 南">
+                                <img src="https://s1.ljcdn.com/pegasus/redskull/images/common/vrgold.png?_v=2022080818032744" class="vr_logo">
+                              </a>
+          <div class="info clear">
+            <div class="title">
+                                            <a class="VIEWDATA CLICKDATA maidian-detail" title="长安花园 2室2厅 南"
+                   data-hreftype="0"
+                   data-agentid=""
+                   data-maidian="610862042735255579" href="https://dg.ke.com/ershoufang/105108318895.html" target="_blank"
+                   data-click-evtid="11178" data-click-event="SearchClick"
+                   data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105108318895&resblock_id=5411100706840&click_position=27&fb_query_id=610862042328408064&fb_expo_id=610862042735255579&fb_item_location=27&fb_service_id=1011901001effect&fb_ab_test_flag=&fb_item_id=105108318895&vr=0&service_commitment=1&e_plan='>长安花园 2室2厅 南</a>
+                                        </div>
+            <div class="address">
+              <div class="flood">
+                <div class="positionInfo">
+                  <span class="positionIcon"></span>
+                                      <a href="https://dg.ke.com/xiaoqu/5411100706840/">长安花园</a>
+                                                    </div>
+              </div>
+              <div class="houseInfo">
+                <span class="houseIcon"></span>
+                                  高楼层
+                                    (共18层)
+                                                                  2室2厅 | 78平米
+                                  | 南
+                
+              </div>
+              <div class="followInfo">
+                <span class="starIcon"></span>
+                5人关注
+                / 1年前发布               </div>
+              <div class="tag">
+                                                                    <span class="taxfree">满五年</span>
+                                                                      <span class="isVrFutureHome">VR看装修</span>
+                                                </div>
+
+                <div class="priceInfo">
+                  <div class="totalPrice totalPrice2">
+                    <i>参考价:</i>
+                    <span class=""> 237</span>
+                    <i>万</i>
+                  </div>
+                  <div class="unitPrice" data-hid="105108318895" data-price="">
+                    <span>30,308元/平</span>
+                  </div>
+                </div>
+            </div>
+            <div class="listButtonContainer">
+                              <div class="btn-follow followBtn CLICKDATA" data-hid="105108318895" data-click-evtid="11284"
+                     data-click-event="FavoriteClick"
+                     data-action="item_type=housedel_id&Housedel_id=105108318895&status=0&source_type=PC列表页房源卡片关注按钮&fb_expo_id=610862042735255579">
+                  <span class="follow-text">关注</span>
+                </div>
+                          </div>
+          </li>
+
+                                      <li class="clear">
+                          <a class="img VIEWDATA CLICKDATA maidian-detail"
+             data-hreftype="0"
+             data-agentid=""
+             data-maidian="610862042735255580"
+             href="https://dg.ke.com/ershoufang/105108184192.html" target="_blank" title="长安花园朝南园景两房诚心出售，看房方便"
+             data-click-evtid="11178" data-click-event="SearchClick"
+             data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105108184192&resblock_id=5411100706840&click_position=28&fb_expo_id=610862042735255580&vr=0&service_commitment=1&e_plan='
+             data-view-evtid="11435" data-view-event="ItemExpo">
+                  <img class="lj-lazy" src="https://s1.ljcdn.com/pegasus/redskull/images/common/blank.gif?_v=2022080818032744"
+               data-original="https://ke-image.ljcdn.com/110000-inspection/pc1_cEF8Ge4RY_1.jpg!m_fill,w_280,h_210,f_jpg?from=ke.com"
+               alt="长安花园朝南园景两房诚心出售，看房方便-东莞长安镇长安新区二手房" title="长安花园朝南园景两房诚心出售，看房方便">
+                                <img src="https://s1.ljcdn.com/pegasus/redskull/images/common/vrgold.png?_v=2022080818032744" class="vr_logo">
+                              </a>
+          <div class="info clear">
+            <div class="title">
+                                            <a class="VIEWDATA CLICKDATA maidian-detail" title="长安花园朝南园景两房诚心出售，看房方便"
+                   data-hreftype="0"
+                   data-agentid=""
+                   data-maidian="610862042735255580" href="https://dg.ke.com/ershoufang/105108184192.html" target="_blank"
+                   data-click-evtid="11178" data-click-event="SearchClick"
+                   data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105108184192&resblock_id=5411100706840&click_position=28&fb_query_id=610862042328408064&fb_expo_id=610862042735255580&fb_item_location=28&fb_service_id=1011901001effect&fb_ab_test_flag=&fb_item_id=105108184192&vr=0&service_commitment=1&e_plan='>长安花园朝南园景两房诚心出售，看房方便</a>
+                                        </div>
+            <div class="address">
+              <div class="flood">
+                <div class="positionInfo">
+                  <span class="positionIcon"></span>
+                                      <a href="https://dg.ke.com/xiaoqu/5411100706840/">长安花园</a>
+                                                    </div>
+              </div>
+              <div class="houseInfo">
+                <span class="houseIcon"></span>
+                                  低楼层
+                                    (共18层)
+                                                                  2室2厅 | 77.61平米
+                                  | 南
+                
+              </div>
+              <div class="followInfo">
+                <span class="starIcon"></span>
+                1人关注
+                / 1年前发布               </div>
+              <div class="tag">
+                                                                    <span class="two">满两年</span>
+                                                                      <span class="isVrFutureHome">VR看装修</span>
+                                                                      <span class="is_key">随时看房</span>
+                                                </div>
+
+                <div class="priceInfo">
+                  <div class="totalPrice totalPrice2">
+                    <i>参考价:</i>
+                    <span class=""> 236</span>
+                    <i>万</i>
+                  </div>
+                  <div class="unitPrice" data-hid="105108184192" data-price="">
+                    <span>30,308元/平</span>
+                  </div>
+                </div>
+            </div>
+            <div class="listButtonContainer">
+                              <div class="btn-follow followBtn CLICKDATA" data-hid="105108184192" data-click-evtid="11284"
+                     data-click-event="FavoriteClick"
+                     data-action="item_type=housedel_id&Housedel_id=105108184192&status=0&source_type=PC列表页房源卡片关注按钮&fb_expo_id=610862042735255580">
+                  <span class="follow-text">关注</span>
+                </div>
+                          </div>
+          </li>
+
+                                      <li class="clear">
+                          <a class="img VIEWDATA CLICKDATA maidian-detail"
+             data-hreftype="0"
+             data-agentid=""
+             data-maidian="610862042735255581"
+             href="https://dg.ke.com/ershoufang/105108126204.html" target="_blank" title="此房中高楼层，采光好，看园林景观。"
+             data-click-evtid="11178" data-click-event="SearchClick"
+             data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105108126204&resblock_id=5411100706840&click_position=29&fb_expo_id=610862042735255581&vr=0&service_commitment=1&e_plan='
+             data-view-evtid="11435" data-view-event="ItemExpo">
+                  <img class="lj-lazy" src="https://s1.ljcdn.com/pegasus/redskull/images/common/blank.gif?_v=2022080818032744"
+               data-original="https://ke-image.ljcdn.com/110000-inspection/pc1_cSYI9P5dg_1.jpg!m_fill,w_280,h_210,f_jpg?from=ke.com"
+               alt="此房中高楼层，采光好，看园林景观。-东莞长安镇长安新区二手房" title="此房中高楼层，采光好，看园林景观。">
+                                <img src="https://s1.ljcdn.com/pegasus/redskull/images/common/vrgold.png?_v=2022080818032744" class="vr_logo">
+                              </a>
+          <div class="info clear">
+            <div class="title">
+                                            <a class="VIEWDATA CLICKDATA maidian-detail" title="此房中高楼层，采光好，看园林景观。"
+                   data-hreftype="0"
+                   data-agentid=""
+                   data-maidian="610862042735255581" href="https://dg.ke.com/ershoufang/105108126204.html" target="_blank"
+                   data-click-evtid="11178" data-click-event="SearchClick"
+                   data-action='source_type=PC首页和列表页搜索&fb_query_id=610862042328408064&type=&housedel_id=105108126204&resblock_id=5411100706840&click_position=29&fb_query_id=610862042328408064&fb_expo_id=610862042735255581&fb_item_location=29&fb_service_id=1011901001effect&fb_ab_test_flag=&fb_item_id=105108126204&vr=0&service_commitment=1&e_plan='>此房中高楼层，采光好，看园林景观。</a>
+                                        </div>
+            <div class="address">
+              <div class="flood">
+                <div class="positionInfo">
+                  <span class="positionIcon"></span>
+                                      <a href="https://dg.ke.com/xiaoqu/5411100706840/">长安花园</a>
+                                                    </div>
+              </div>
+              <div class="houseInfo">
+                <span class="houseIcon"></span>
+                                  高楼层
+                                    (共18层)
+                                                                  3室1厅 | 92.03平米
+                                  | 北
+                
+              </div>
+              <div class="followInfo">
+                <span class="starIcon"></span>
+                4人关注
+                / 1年前发布               </div>
+              <div class="tag">
+                                                                    <span class="taxfree">满五年</span>
+                                                                      <span class="isVrFutureHome">VR看装修</span>
+                                                                      <span class="is_key">随时看房</span>
+                                                </div>
+
+                <div class="priceInfo">
+                  <div class="totalPrice totalPrice2">
+                    <i>参考价:</i>
+                    <span class=""> 279</span>
+                    <i>万</i>
+                  </div>
+                  <div class="unitPrice" data-hid="105108126204" data-price="">
+                    <span>30,308元/平</span>
+                  </div>
+                </div>
+            </div>
+            <div class="listButtonContainer">
+                              <div class="btn-follow followBtn CLICKDATA" data-hid="105108126204" data-click-evtid="11284"
+                     data-click-event="FavoriteClick"
+                     data-action="item_type=housedel_id&Housedel_id=105108126204&status=0&source_type=PC列表页房源卡片关注按钮&fb_expo_id=610862042735255581">
+                  <span class="follow-text">关注</span>
+                </div>
+                          </div>
+          </li>
+
+                                  </ul>
+  
+</div>
+
+                
+                                                    <div data-component="C_listBottom" class="contentBottom clear" >
+  <div class="crumbs fl">
+                            <a href="/">东莞房产</a>
+                      <span>&nbsp;&gt;&nbsp;</span>
+                                          <h1><a href="/ershoufang/">
