@@ -2,7 +2,6 @@ import requests
 import time
 import json
 import traceback
-import matplotlib.pyplot as plt
 import re
 import subprocess
 

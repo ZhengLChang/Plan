@@ -6,7 +6,6 @@ import requests
 import time
 import json
 import traceback
-import matplotlib.pyplot as plt
 import re
 import subprocess
 import home_info 
@@ -44,7 +43,6 @@ class HomeList(object):
             if res.status_code == 200:
                 #with open("changan_" + index_str + ".txt", "w") as f:
                 #    f.write(res.text.split("东莞二手房")[1])
-                print(res.text)
                 home_list1 = re.findall(r'https://dg.ke.com/ershoufang/\d{3,}.html', res.text.split("东莞二手房")[1])
                 home_list = home_list + home_list1
 
