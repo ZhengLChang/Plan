@@ -64,13 +64,16 @@ if __name__ == "__main__":
     tasks = [gevent_pool.spawn(home_info_obj.GetHomeDesc, store_list, home_url) for home_url in home_set]
     gevent.wait(tasks)
 
+    area_list = list()
     for home_info_dict in store_list:
-        if home_info_dict["建筑面积"].startswith("7"):
+        if home_info_dict["建筑面积"].startswith("7") or home_info_dict["建筑面积"].startswith("8") or home_info_dict["建筑面积"].startswith("6"):
             home_less_80_list.append(home_info_dict)
+            area_list.append(home_info_dict["建筑面积"])
             if "南" in home_info_dict["房屋朝向"]:
                 home_less_80_and_south_list.append(home_less_80_and_south_list)
         else:
             home_other_list.append(home_info_dict)
+    print(area_list)
     print(f"< 80 个数: {len(home_less_80_list)}")
     print(f"< 80 且朝南个数: {len(home_less_80_and_south_list)}")
     print(f"> 80 个数: {len(home_other_list)}")
